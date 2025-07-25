@@ -1,0 +1,1810 @@
+prop_price,prop_title,prop_location,prop_size,number_room
+"1,200",Villa,"Al Buraimi, Al Buraimi","1,500 Sq. M.",5
+"1,500",Villa,"Qantab, Muscat","1,500 Sq. M.",5
+"1,200",Apartment,"Mahut, Al Wusta","1,000 Sq. M.",3
+"1,500",Villa,"Al Sifah, Muscat","1,000 Sq. M.",5
+"1,000",Villa,"Hamra, Al Dakhiliya","1,000 Sq. M.",4
+"120,000",Apartment,"Al Sinainah, Al Buraimi",110 Sq. M.,3
+"100,000",Apartment,"Al Duqum, Al Wusta",100 Sq. M.,2
+"220,000",Apartment,"Al Duqum, Al Wusta",100 Sq. M.,3
+"220,000",Apartment,"Taqah, Dhofar",112 Sq. M.,2
+"22,000",Apartment,"Muqshin, Dhofar",112 Sq. M.,2
+"2,000",Villa,"Bahla, Al Dakhiliya","1,000 Sq. M.",3
+"390,000",Villa,"Muscat Hills, Muscat",471 Sq. M.,3
+"81,000",Apartment,"Muscat Hills, Muscat",132 Sq. M.,2
+"125,000",Villa,"Al Seeb, Muscat",363 Sq. M.,6
+"49,000",Villa,"Barka, Al Batinah",345 Sq. M.,3
+"380,000",Villa,"The Wave (Almouj), Muscat",502 Sq. M.,5
+"309,000",Villa,"The Wave (Almouj), Muscat",420 Sq. M.,4
+"79,999",Villa,"Al Amarat, Muscat",650 Sq. M.,6
+"85,000",Apartment,"Al Ghubrah, Muscat",160 Sq. M.,3
+"295,000",Villa,"The Wave (Almouj), Muscat",265 Sq. M.,5
+"74,000",Villa,"Al Maabilah, Muscat",260 Sq. M.,4
+"93,000",Apartment,"The Wave (Almouj), Muscat",107 Sq. M.,1
+"67,000",Apartment,"Muscat Hills, Muscat",70 Sq. M.,1
+"130,000",Apartment,"The Wave (Almouj), Muscat",149 Sq. M.,2
+"85,000",Villa,"Salalah, Dhofar",120 Sq. M.,2
+"496,000",Villa,"Qantab, Muscat",769 Sq. M.,3
+"442,300",Villa,"Qantab, Muscat",769 Sq. M.,4
+"59,000",Villa,"Al Amarat, Muscat",178 Sq. M.,3
+"195,000",Apartment,"The Wave (Almouj), Muscat",235 Sq. M.,3
+"116,500",Villa,"Sultan Haitham City, Muscat",194 Sq. M.,3
+"111,700",Villa,"Sultan Haitham City, Muscat",194 Sq. M.,3
+"121,200",Villa,"Sultan Haitham City, Muscat",205 Sq. M.,3
+"325,000",Villa,"Muscat Hills, Muscat",423 Sq. M.,4
+"55,000",Apartment,"Al Sifah, Muscat",59 Sq. M.,1
+"198,000",Apartment,"The Wave (Almouj), Muscat",200 Sq. M.,3
+"98,000",Villa,"Al Seeb, Muscat",300 Sq. M.,7
+"350,000",Villa,"Muscat - Other, Muscat",460 Sq. M.,4
+"88,000",Apartment,"Muscat Hills, Muscat",105 Sq. M.,1
+"85,034",Apartment,"Yiti, Muscat",79 Sq. M.,1
+"59,000",Apartment,"Ghala, Muscat",139 Sq. M.,2
+"59,000",Villa,"Barka, Al Batinah",300 Sq. M.,4
+"54,000",Apartment,"Qurum, Muscat",108 Sq. M.,3
+"450,000",Apartment,"The Wave (Almouj), Muscat",183 Sq. M.,2
+"95,000",Apartment,"Al Sifah, Muscat",129 Sq. M.,2
+"99,000",Apartment,"Al Sifah, Muscat",129 Sq. M.,2
+"85,000",Apartment,"Salalah, Dhofar",120 Sq. M.,2
+"125,000",Apartment,"The Wave (Almouj), Muscat",139 Sq. M.,2
+"74,350",Apartment,"Al Maabilah, Muscat",155 Sq. M.,3
+"12,300",Residential Land,"Thumrait, Dhofar",586 Sq. M.,not available
+"108,990",Apartment,"Al Maabilah, Muscat",155 Sq. M.,3
+"429,000",Villa,"Madinat As Sultan Qaboos, Muscat",725 Sq. M.,5
+"205,000",Villa,"Muscat Hills, Muscat",270 Sq. M.,4
+"405,000",Apartment,"Qurum, Muscat",131 Sq. M.,2
+"480,000",Villa,"The Wave (Almouj), Muscat",619 Sq. M.,6
+"62,000",Villa,"Barka, Al Batinah",354 Sq. M.,5
+"350,000",Villa,"Salalah, Dhofar",292 Sq. M.,3
+"140,000",Apartment,"The Wave (Almouj), Muscat",127 Sq. M.,2
+"100,130",Apartment,"Al Maabilah, Muscat",138 Sq. M.,3
+"578,000",Villa,"The Wave (Almouj), Muscat",455 Sq. M.,5
+"65,000",Apartment,"Al Sifah, Muscat",91 Sq. M.,1
+"905,000",Villa,"Yiti, Muscat",405 Sq. M.,5
+"922,000",Villa,"Yiti, Muscat",405 Sq. M.,5
+"6,200",Residential Land,"Al Amarat, Muscat","1,000 Sq. M.",not available
+"8,000",Apartment,"Wadi Bani Khalid, Al Sharqiya",900 Sq. M.,2
+"59,000",Chalet,"Barka, Al Batinah",192 Sq. M.,3
+900,Villa,"Al Sifah, Muscat",900 Sq. M.,4
+"85,000",Villa,"Al Khoud, Muscat",283 Sq. M.,4
+"60,000",Apartment,"Al Khuwair, Muscat",125 Sq. M.,3
+"100,000",Apartment,"The Wave (Almouj), Muscat",90 Sq. M.,1
+"89,000",Apartment,"The Wave (Almouj), Muscat",104 Sq. M.,1
+"190,000",Chalet,"Al Sifah, Muscat",990 Sq. M.,2
+"31,000",Residential Land,"Mirbat, Dhofar",600 Sq. M.,not available
+"85,000",Apartment,"Muscat Hills, Muscat",120 Sq. M.,2
+"20,000",Apartment,"Salalah, Dhofar",64 Sq. M.,2
+"95,000",Chalet,"Misfah, Muscat",600 Sq. M.,3
+"105,000",Villa,"Al Maabilah, Muscat",300 Sq. M.,5
+"137,000",Villa,"Al Khoud, Muscat",420 Sq. M.,5
+"165,000",Villa,"Al Khoud, Muscat",500 Sq. M.,3
+"160,000",Villa,"Al Mawaleh, Muscat",408 Sq. M.,6
+"55,000",Apartment,"Taqah, Dhofar",75 Sq. M.,1
+"232,000",Villa,"Ansab, Muscat",664 Sq. M.,7
+"135,000",Apartment,"The Wave (Almouj), Muscat",138 Sq. M.,2
+"140,000",Apartment,"The Wave (Almouj), Muscat",127 Sq. M.,2
+"39,000",Apartment,"Al Hail, Muscat",79 Sq. M.,1
+"78,000",Villa,"Barka, Al Batinah",350 Sq. M.,8
+"274,733",Villa,"Yiti, Muscat",238 Sq. M.,3
+"63,500",Villa,"Barka, Al Batinah",327 Sq. M.,5
+"725,000",Villa,"The Wave (Almouj), Muscat",606 Sq. M.,6
+"135,000",Villa,"Salalah, Dhofar",124 Sq. M.,2
+"34,000",Residential Land,"Barka, Al Batinah",600 Sq. M.,not available
+"140,000",Villa,"Al Hail, Muscat","3,863 Sq. M.",6
+"109,000",Apartment,"Taqah, Dhofar",130 Sq. M.,2
+"68,590",Apartment,"Al Maabilah, Muscat",138 Sq. M.,3
+"44,500",Apartment,"Ghala, Muscat",95 Sq. M.,2
+"35,500",Villa,"Barka, Al Batinah",600 Sq. M.,2
+"68,032",Apartment,"Al Seeb, Muscat",96 Sq. M.,1
+"5,500",Residential Land,"Nizwa, Al Dakhiliya",600 Sq. M.,not available
+"146,500",Apartment,"The Wave (Almouj), Muscat",125 Sq. M.,2
+"80,000",Apartment,"Qurum, Muscat",137 Sq. M.,2
+"63,000",Apartment,"Muscat Hills, Muscat",74 Sq. M.,1
+"1,360,000",Villa,"Al Mawaleh, Muscat",933 Sq. M.,6
+"52,000",Villa,"Al Amarat, Muscat",399 Sq. M.,3
+"59,016",Apartment,"Al Seeb, Muscat",83 Sq. M.,1
+"19,000",Residential Land,"Ruwi, Muscat",147 Sq. M.,not available
+"44,000",Villa,"Al Amarat, Muscat",208 Sq. M.,4
+"65,000",Villa,"Barka, Al Batinah",233 Sq. M.,5
+"63,000",Apartment,"Muscat Hills, Muscat",78 Sq. M.,1
+"1,500,000",Villa,"The Wave (Almouj), Muscat",907 Sq. M.,6
+"90,000",Villa,"Al Maabilah, Muscat",600 Sq. M.,3
+"37,000",Apartment,"Al Maabilah, Muscat",136 Sq. M.,2
+"920,000",Apartment,"The Wave (Almouj), Muscat",421 Sq. M.,4
+"38,000",Apartment,"Ghala, Muscat",68 Sq. M.,1
+"245,000",Apartment,"The Wave (Almouj), Muscat",126 Sq. M.,2
+"3,650",Residential Land,"Al Amarat, Muscat",600 Sq. M.,not available
+"89,000",Apartment,"The Wave (Almouj), Muscat",104 Sq. M.,1
+"45,000",Apartment,"Al Hail, Muscat",130 Sq. M.,2
+"240,000",Villa,"Bosher, Muscat",404 Sq. M.,5
+"716,000",Villa,"Yiti, Muscat",166 Sq. M.,3
+"45,000",Apartment,"Salalah, Dhofar",55 Sq. M.,not available
+"154,900",Villa,"Al Maabilah, Muscat",400 Sq. M.,5
+"227,100",Villa,"Al Maabilah, Muscat",400 Sq. M.,5
+"203,300",Villa,"Al Maabilah, Muscat",500 Sq. M.,5
+"85,000",Apartment,"Muscat Hills, Muscat",135 Sq. M.,2
+"15,000",Residential Land,"Azaiba, Muscat",90 Sq. M.,not available
+"85,034",Apartment,"Yiti, Muscat",85 Sq. M.,1
+"238,000",Villa,"Yiti, Muscat",256 Sq. M.,4
+"155,000",Apartment,"Muscat - Other, Muscat",156 Sq. M.,2
+"125,000",Apartment,"The Wave (Almouj), Muscat",70 Sq. M.,1
+"69,000",Apartment,"Al Hail, Muscat",102 Sq. M.,2
+"210,000",Villa,"Al Hail, Muscat",480 Sq. M.,6
+"26,500",Apartment,"Al Seeb, Muscat",70 Sq. M.,1
+"105,000",Residential Land,"Al Mawaleh, Muscat",690 Sq. M.,not available
+"588,000",Villa,"The Wave (Almouj), Muscat",722 Sq. M.,5
+"15,000",Residential Land,"Barka, Al Batinah",300 Sq. M.,not available
+"205,000",Villa,"The Wave (Almouj), Muscat",175 Sq. M.,4
+"117,000",Villa,"Al Khoud, Muscat",328 Sq. M.,4
+"25,000",Residential Land,"Shinas, Al Batinah","5,281 Sq. M.",not available
+"31,500",Residential Land,"Shinas, Al Batinah","6,956 Sq. M.",not available
+"4,500",Residential Land,"Saham, Al Batinah",607 Sq. M.,not available
+"335,000",Villa,"Al Sifah, Muscat",344 Sq. M.,4
+"47,000",Villa,"Sumail, Al Dakhiliya",260 Sq. M.,4
+"36,500",Apartment,"Al Maabilah, Muscat",126 Sq. M.,3
+"5,200",Residential Land,"Saham, Al Batinah",600 Sq. M.,not available
+"455,000",Villa,"Yiti, Muscat",120 Sq. M.,3
+"48,000",Villa,"Sohar, Al Batinah",304 Sq. M.,5
+"100,000",Residential Land,"Al Rustaq, Al Batinah","3,180 Sq. M.",not available
+"5,950",Residential Land,"Al Masn'a, Al Batinah",600 Sq. M.,not available
+"9,300",Residential Land,"Saham, Al Batinah",757 Sq. M.,not available
+"23,000",Apartment,"Al Duqum, Al Wusta",35 Sq. M.,1
+"49,000",Villa,"Al Rustaq, Al Batinah",293 Sq. M.,4
+"130,000",Residential Land,"Al Maabilah, Muscat",500 Sq. M.,not available
+"105,000",Villa,"Ansab, Muscat",422 Sq. M.,5
+"135,000",Apartment,"The Wave (Almouj), Muscat",138 Sq. M.,3
+"85,000",Chalet,"Suwaiq, Al Batinah","10,000 Sq. M.",3
+"39,000",Villa,"Al Amarat, Muscat",423 Sq. M.,3
+"112,000",Apartment,"Muscat Hills, Muscat",138 Sq. M.,2
+"174,650",Villa,"Al Maabilah, Muscat",249 Sq. M.,5
+"90,675",Apartment,"Muscat Hills, Muscat",108 Sq. M.,2
+"65,000",Apartment,"Muscat Hills, Muscat",85 Sq. M.,1
+"165,000",Villa,"Ansab, Muscat",300 Sq. M.,7
+"96,122",Apartment,"Yiti, Muscat",68 Sq. M.,1
+"45,000",Apartment,"Ghala, Muscat",99 Sq. M.,2
+"298,082",Apartment,"Qurum, Muscat",132 Sq. M.,2
+"190,000",Villa,"Al Sifah, Muscat",818 Sq. M.,2
+"125,000",Apartment,"Salalah, Dhofar",111 Sq. M.,3
+"82,000",Villa,"Nizwa, Al Dakhiliya",430 Sq. M.,5
+"160,000",Villa,"Salalah, Dhofar",131 Sq. M.,2
+"1,000,000",Villa,"Al Buraimi, Al Buraimi","1,500 Sq. M.",10
+"94,000",Apartment,"The Wave (Almouj), Muscat",107 Sq. M.,1
+"88,000",Villa,"Al Maabilah, Muscat",781 Sq. M.,6
+"63,000",Apartment,"Muscat Hills, Muscat",76 Sq. M.,1
+"235,000",Villa,"Al Khoud, Muscat",417 Sq. M.,4
+"63,000",Apartment,"Muscat Hills, Muscat",95 Sq. M.,1
+"178,000",Villa,"Sultan Haitham City, Muscat",249 Sq. M.,5
+"112,000",Apartment,"Muscat Hills, Muscat",138 Sq. M.,2
+"6,200",Residential Land,"Ibra, Al Sharqiya",600 Sq. M.,not available
+"54,000",Apartment,"Bosher, Muscat",116 Sq. M.,3
+"90,000",Villa,"Salalah, Dhofar",120 Sq. M.,2
+"42,000",Apartment,"Al Maabilah, Muscat",50 Sq. M.,not available
+"10,500",Residential Land,"Sumail, Al Dakhiliya",600 Sq. M.,not available
+"63,000",Apartment,"Muscat Hills, Muscat",76 Sq. M.,1
+"85,000",Apartment,"Muscat Hills, Muscat",95 Sq. M.,1
+"27,000",Villa,"Bosher, Muscat",75 Sq. M.,2
+"238,891",Villa,"Yiti, Muscat",253 Sq. M.,3
+"340,000",Villa,"Sultan Haitham City, Muscat",388 Sq. M.,4
+"160,000",Apartment,"The Wave (Almouj), Muscat",200 Sq. M.,2
+"9,500",Residential Land,"Ibra, Al Sharqiya",680 Sq. M.,not available
+"80,000",Apartment,"Muscat Hills, Muscat",129 Sq. M.,2
+"310,000",Villa,"Sultan Haitham City, Muscat",413 Sq. M.,7
+"222,240",Apartment,"Al Seeb, Muscat",339 Sq. M.,4
+"75,000",Villa,"Al Amarat, Muscat",200 Sq. M.,5
+"60,684",Apartment,"Muscat Hills, Muscat",78 Sq. M.,1
+"16,000",Residential Land,"Salalah, Dhofar",600 Sq. M.,not available
+"64,890",Apartment,"Muscat Hills, Muscat",76 Sq. M.,1
+"103,000",Apartment,"The Wave (Almouj), Muscat",91 Sq. M.,1
+"51,000",Apartment,"Bosher, Muscat",114 Sq. M.,4
+"340,000",Villa,"Sultan Haitham City, Muscat",388 Sq. M.,4
+"59,000",Villa,"Barka, Al Batinah",300 Sq. M.,4
+"349,549",Villa,"Sultan Haitham City, Muscat",388 Sq. M.,4
+"100,000",Villa,"Barka, Al Batinah",600 Sq. M.,3
+"110,000",Apartment,"The Wave (Almouj), Muscat",95 Sq. M.,1
+"220,000",Chalet,"Barka, Al Batinah","1,214 Sq. M.",4
+"23,300",Residential Land,"Barka, Al Batinah",600 Sq. M.,not available
+"65,000",Villa,"Al Maabilah, Muscat",600 Sq. M.,4
+"90,000",Villa,"Al Maabilah, Muscat",300 Sq. M.,7
+"120,000",Residential Land,"Al Maabilah, Muscat",400 Sq. M.,not available
+"200,000",Villa,"Salalah, Dhofar",141 Sq. M.,2
+"256,540",Villa,"Salalah, Dhofar",181 Sq. M.,3
+"47,000",Apartment,"Muscat Hills, Muscat",49 Sq. M.,not available
+"82,000",Apartment,"Al Sifah, Muscat",110 Sq. M.,2
+"95,000",Apartment,"Muscat Hills, Muscat",142 Sq. M.,2
+"180,000",Apartment,"The Wave (Almouj), Muscat",133 Sq. M.,2
+"104,525",Villa,"Salalah, Dhofar",79 Sq. M.,1
+"65,000",Villa,"Al Seeb, Muscat",600 Sq. M.,4
+"108,000",Villa,"Al Mawaleh, Muscat",240 Sq. M.,4
+"419,000",Villa,"Madinat As Sultan Qaboos, Muscat",720 Sq. M.,5
+"20,900",Apartment,"Al Maabilah, Muscat",84 Sq. M.,2
+"7,500",Residential Land,"Al Khaboura, Al Batinah","1,248 Sq. M.",not available
+"77,000",Apartment,"The Wave (Almouj), Muscat",107 Sq. M.,1
+"45,700",Apartment,"Ghala, Muscat",91 Sq. M.,1
+"1,400,000",Villa,"Al Sifah, Muscat","2,242 Sq. M.",5
+"57,000",Apartment,"Al Hail, Muscat",84 Sq. M.,2
+"340,000",Residential Land,"Bosher, Muscat","1,500 Sq. M.",not available
+"220,000",Chalet,"Al Sifah, Muscat",177 Sq. M.,3
+"225,000",Apartment,"The Wave (Almouj), Muscat",157 Sq. M.,2
+"37,000",Villa,"Barka, Al Batinah",180 Sq. M.,4
+"172,082",Apartment,"Qurum, Muscat",73 Sq. M.,1
+"140,000",Apartment,"The Wave (Almouj), Muscat",114 Sq. M.,1
+"85,000",Apartment,"Salalah, Dhofar",120 Sq. M.,2
+"130,000",Apartment,"Al Mawaleh, Muscat",566 Sq. M.,3
+"95,000",Apartment,"Salalah, Dhofar",76 Sq. M.,1
+"110,000",Apartment,"The Wave (Almouj), Muscat",107 Sq. M.,1
+"51,000",Chalet,"Barka, Al Batinah",600 Sq. M.,2
+"35,000",Apartment,"Salalah, Dhofar",150 Sq. M.,3
+"76,000",Villa,"Al Maabilah, Muscat",345 Sq. M.,4
+"70,850",Apartment,"Al Maabilah, Muscat",109 Sq. M.,2
+"980,000",Villa,"Al Sifah, Muscat","2,300 Sq. M.",5
+"60,000",Apartment,"Al Sifah, Muscat",59 Sq. M.,1
+"413,968",Villa,"Qantab, Muscat",422 Sq. M.,4
+"140,000",Apartment,"The Wave (Almouj), Muscat",140 Sq. M.,2
+"185,000",Villa,"The Wave (Almouj), Muscat",128 Sq. M.,2
+"70,850",Apartment,"Sultan Haitham City, Muscat",109 Sq. M.,2
+"163,050",Apartment,"Sultan Haitham City, Muscat",217 Sq. M.,3
+"53,300",Apartment,"Sultan Haitham City, Muscat",82 Sq. M.,1
+"100,000",Residential Land,"Al Amarat, Muscat",400 Sq. M.,not available
+"140,000",Residential Land,"Ansab, Muscat",734 Sq. M.,not available
+"100,000",Residential Land,"Bosher, Muscat",500 Sq. M.,not available
+"58,500",Apartment,"Sultan Haitham City, Muscat",70 Sq. M.,1
+"250,000",Villa,"Al Sifah, Muscat",153 Sq. M.,3
+"255,000",Apartment,"The Wave (Almouj), Muscat",157 Sq. M.,2
+"225,000",Villa,"The Wave (Almouj), Muscat",176 Sq. M.,4
+"85,000",Apartment,"Muscat Hills, Muscat",120 Sq. M.,2
+"12,200",Residential Land,"Barka, Al Batinah",810 Sq. M.,not available
+"95,000",Villa,"Misfah, Muscat",215 Sq. M.,4
+"46,150",Apartment,"Al Maabilah, Muscat",71 Sq. M.,1
+"923,409",Apartment,"Muscat - Other, Muscat",424 Sq. M.,4
+"288,115",Apartment,"Qantab, Muscat",361 Sq. M.,3
+"1,100,000",Villa,"Suwaiq, Al Batinah","15,430 Sq. M.",6
+"79,000",Villa,"Salalah, Dhofar",69 Sq. M.,1
+"140,000",Villa,"Salalah, Dhofar",110 Sq. M.,2
+"98,000",Villa,"Al Seeb, Muscat",425 Sq. M.,7
+"140,000",Villa,"Al Hail, Muscat",320 Sq. M.,5
+"16,000",Residential Land,"Barka, Al Batinah",630 Sq. M.,not available
+"125,000",Apartment,"The Wave (Almouj), Muscat",110 Sq. M.,1
+"29,000",Apartment,"Darsait, Muscat",90 Sq. M.,2
+"61,000",Apartment,"Al Sifah, Muscat",64 Sq. M.,1
+"50,000",Apartment,"Salalah, Dhofar",55 Sq. M.,1
+"27,000",Residential Land,"Al Amarat, Muscat",333 Sq. M.,not available
+"100,000",Apartment,"The Wave (Almouj), Muscat",107 Sq. M.,1
+"2,800,000",Villa,"The Wave (Almouj), Muscat","1,615 Sq. M.",6
+"88,000",Apartment,"Ghala, Muscat",139 Sq. M.,2
+"6,700",Residential Land,"Saham, Al Batinah","1,213 Sq. M.",not available
+"20,500",Residential Land,"Sohar, Al Batinah",600 Sq. M.,not available
+"149,695",Villa,"Al Maabilah, Muscat",249 Sq. M.,5
+"50,000",Apartment,"Salalah, Dhofar",65 Sq. M.,1
+"175,000",Villa,"Sultan Haitham City, Muscat",220 Sq. M.,3
+"256,000",Villa,"Muscat Hills, Muscat",258 Sq. M.,5
+"68,000",Apartment,"Al Sifah, Muscat",91 Sq. M.,1
+"45,000",Apartment,"Al Sifah, Muscat",61 Sq. M.,not available
+"135,000",Residential Land,"Al Maabilah, Muscat",400 Sq. M.,not available
+"66,000",Villa,"Al Maabilah, Muscat",223 Sq. M.,3
+"95,000",Residential Land,"Bosher, Muscat",439 Sq. M.,not available
+"25,000",Villa,"Barka, Al Batinah",447 Sq. M.,3
+"320,000",Apartment,"Qantab, Muscat",361 Sq. M.,3
+"145,000",Residential Land,"Bosher, Muscat",783 Sq. M.,not available
+"185,000",Villa,"Al Ghubrah, Muscat",475 Sq. M.,4
+100,Residential Land,"Adam, Al Dakhiliya",700 Sq. M.,not available
+"110,000",Apartment,"Al Sifah, Muscat",124 Sq. M.,2
+"137,000",Villa,"Al Khoud, Muscat",420 Sq. M.,5
+"204,000",Apartment,"Sultan Haitham City, Muscat",272 Sq. M.,4
+"48,000",Residential Land,"Al Khaboura, Al Batinah","4,000 Sq. M.",not available
+"125,000",Apartment,"The Wave (Almouj), Muscat",110 Sq. M.,1
+"138,000",Apartment,"Qantab, Muscat",118 Sq. M.,1
+"170,650",Villa,"Salalah, Dhofar",133 Sq. M.,2
+"91,180",Apartment,"Qantab, Muscat",79 Sq. M.,1
+"25,000",Apartment,"Al Amarat, Muscat",95 Sq. M.,2
+"18,000",Residential Land,"Al Buraimi, Al Buraimi","1,283 Sq. M.",not available
+"5,000",Residential Land,"Izki, Al Dakhiliya",600 Sq. M.,not available
+"87,735",Apartment,"Al Seeb, Muscat",134 Sq. M.,2
+"94,000",Apartment,"The Wave (Almouj), Muscat",90 Sq. M.,1
+"80,000",Villa,"Al Khoud, Muscat",376 Sq. M.,5
+"98,000",Apartment,"The Wave (Almouj), Muscat",84 Sq. M.,1
+"80,000",Apartment,"The Wave (Almouj), Muscat",61 Sq. M.,1
+"111,700",Villa,"Sultan Haitham City, Muscat",194 Sq. M.,3
+"59,500",Apartment,"Muscat Hills, Muscat",74 Sq. M.,1
+"58,000",Apartment,"Al Sifah, Muscat",76 Sq. M.,1
+"227,700",Villa,"Al Maabilah, Muscat",444 Sq. M.,5
+"90,085",Apartment,"Yiti, Muscat",66 Sq. M.,1
+"146,000",Villa,"Bosher, Muscat",240 Sq. M.,7
+"100,000",Villa,"Al Khoud, Muscat",300 Sq. M.,5
+"78,000",Residential Land,"Nizwa, Al Dakhiliya",750 Sq. M.,not available
+"143,000",Villa,"Al Khoud, Muscat",378 Sq. M.,5
+"100,000",Residential Land,"Wadi Al Ma'awal, Al Batinah",600 Sq. M.,not available
+"110,000",Apartment,"Sultan Haitham City, Muscat",147 Sq. M.,2
+"75,000",Apartment,"Bosher, Muscat",103 Sq. M.,2
+"115,000",Villa,"Ansab, Muscat",340 Sq. M.,5
+"9,500",Residential Land,"Sumail, Al Dakhiliya",600 Sq. M.,not available
+"200,000",Residential Land,"Al Khoud, Muscat",500 Sq. M.,not available
+"8,500",Apartment,"Al Seeb, Muscat",44 Sq. M.,1
+"75,000",Villa,"Bosher, Muscat",332 Sq. M.,7
+"55,000",Villa,"Ibra, Al Sharqiya",300 Sq. M.,11
+"55,000",Apartment,"Qurum, Muscat",94 Sq. M.,3
+"335,850",Villa,"Salalah, Dhofar",243 Sq. M.,4
+"20,500",Residential Land,"Barka, Al Batinah",589 Sq. M.,not available
+"115,000",Residential Land,"Al Mawaleh, Muscat",600 Sq. M.,not available
+"70,000",Residential Land,"Al Amarat, Muscat",666 Sq. M.,not available
+"88,500",Apartment,"Muscat Hills, Muscat",111 Sq. M.,2
+"58,000",Apartment,"Azaiba, Muscat",117 Sq. M.,2
+"1,000",Residential Land,"Al Amarat, Muscat",600 Sq. M.,not available
+"20,000",Apartment,"Barka, Al Batinah",156 Sq. M.,3
+"92,000",Apartment,"Muscat Hills, Muscat",117 Sq. M.,2
+"87,000",Villa,"Nizwa, Al Dakhiliya",525 Sq. M.,6
+140,Residential Land,"Barka, Al Batinah","17,829 Sq. M.",not available
+"7,300",Residential Land,"Bahla, Al Dakhiliya",835 Sq. M.,not available
+"1,010",Residential Land,"Al Maabilah, Muscat","6,000 Sq. M.",not available
+"13,500",Residential Land,"Bahla, Al Dakhiliya",630 Sq. M.,not available
+"4,000",Residential Land,"Al Rustaq, Al Batinah",500 Sq. M.,not available
+"30,000",Apartment,"Bosher, Muscat",60 Sq. M.,1
+"4,500",Residential Land,"Al Amarat, Muscat",600 Sq. M.,not available
+"10,000",Residential Land,"Barka, Al Batinah",600 Sq. M.,not available
+"58,000",Apartment,"Al Sifah, Muscat",64 Sq. M.,1
+"23,000",Residential Land,"Barka, Al Batinah",600 Sq. M.,not available
+"176,000",Villa,"Al Maabilah, Muscat",240 Sq. M.,3
+"6,000",Residential Land,"Al Mudaibi, Al Sharqiya",600 Sq. M.,not available
+"12,500",Residential Land,"Masira, Al Sharqiya","1,278 Sq. M.",not available
+"39,000",Apartment,"Al Hail, Muscat",79 Sq. M.,1
+"12,500",Residential Land,"Ibri, Al Dhahirah","1,218 Sq. M.",not available
+"165,000",Apartment,"The Wave (Almouj), Muscat",83 Sq. M.,1
+"406,960",Villa,"Qantab, Muscat",426 Sq. M.,3
+"46,150",Apartment,"Sultan Haitham City, Muscat",71 Sq. M.,1
+"55,000",Residential Land,"Barka, Al Batinah","1,562 Sq. M.",not available
+"65,000",Residential Land,"Al Seeb, Muscat",827 Sq. M.,not available
+"112,000",Villa,"Al Khoud, Muscat",390 Sq. M.,6
+"50,000",Apartment,"Bosher, Muscat",122 Sq. M.,3
+"115,000",Villa,"Qurum, Muscat",260 Sq. M.,4
+"150,000",Villa,"Azaiba, Muscat",460 Sq. M.,7
+"74,000",Apartment,"Salalah, Dhofar",61 Sq. M.,2
+"5,000",Residential Land,"Al Buraimi, Al Buraimi",624 Sq. M.,not available
+"63,000",Residential Land,"Barka, Al Batinah","1,272 Sq. M.",not available
+"100,000",Apartment,"Salalah, Dhofar",85 Sq. M.,1
+"190,000",Villa,"Ansab, Muscat",527 Sq. M.,6
+"70,000",Villa,"Al Amarat, Muscat",534 Sq. M.,5
+"103,000",Apartment,"Muscat Hills, Muscat",168 Sq. M.,2
+"50,000",Villa,"Barka, Al Batinah",176 Sq. M.,3
+"50,000",Villa,"Sohar, Al Batinah",610 Sq. M.,2
+"55,000",Residential Land,"Al Qabil, Al Sharqiya","6,050 Sq. M.",not available
+"14,000",Residential Land,"Al 'Awabi, Al Batinah",500 Sq. M.,not available
+"50,070",Apartment,"Sultan Haitham City, Muscat",67 Sq. M.,1
+"330,000",Villa,"Muscat Hills, Muscat",280 Sq. M.,4
+"248,000",Apartment,"The Wave (Almouj), Muscat",245 Sq. M.,3
+"14,900",Residential Land,"Ja'alan Bani Bu Ali, Al Sharqiya",656 Sq. M.,not available
+"144,554",Apartment,"Yiti, Muscat",117 Sq. M.,2
+"26,000",Apartment,"Al Maabilah, Muscat",102 Sq. M.,2
+"65,000",Villa,"Al Amarat, Muscat",300 Sq. M.,5
+"78,500",Chalet,"Barka, Al Batinah",150 Sq. M.,2
+"125,000",Villa,"Al Mawaleh, Muscat",634 Sq. M.,4
+"35,500",Apartment,"Bosher, Muscat",79 Sq. M.,1
+"29,000",Apartment,"Bosher, Muscat",67 Sq. M.,1
+"178,000",Villa,"Al Maabilah, Muscat",249 Sq. M.,5
+"20,000",Residential Land,"Barka, Al Batinah",479 Sq. M.,not available
+"41,600",Apartment,"Sultan Haitham City, Muscat",56 Sq. M.,not available
+"18,000",Residential Land,"Barka, Al Batinah",600 Sq. M.,not available
+"35,000",Apartment,"Ghala, Muscat",67 Sq. M.,1
+"27,000",Apartment,"Mirbat, Dhofar",70 Sq. M.,2
+"38,500",Residential Land,"Al Maabilah, Muscat",600 Sq. M.,not available
+"57,000",Residential Land,"Al Seeb, Muscat",119 Sq. M.,not available
+"185,000",Villa,"The Wave (Almouj), Muscat",128 Sq. M.,2
+"5,150",Residential Land,"Barka, Al Batinah",609 Sq. M.,not available
+"65,000",Apartment,"Muscat Hills, Muscat",46 Sq. M.,not available
+"95,326",Apartment,"Yiti, Muscat",59 Sq. M.,1
+"10,000",Residential Land,"Saham, Al Batinah",600 Sq. M.,not available
+"950,000",Villa,"Qantab, Muscat",750 Sq. M.,5
+"140,375",Apartment,"Qantab, Muscat",115 Sq. M.,2
+"356,040",Villa,"Qantab, Muscat",357 Sq. M.,3
+"140,000",Apartment,"Al Sifah, Muscat",159 Sq. M.,2
+"205,000",Chalet,"Al Sifah, Muscat",177 Sq. M.,3
+"70,850",Apartment,"Sultan Haitham City, Muscat",109 Sq. M.,2
+"204,000",Apartment,"Sultan Haitham City, Muscat",272 Sq. M.,4
+"163,050",Apartment,"Sultan Haitham City, Muscat",217 Sq. M.,3
+"154,000",Villa,"Sultan Haitham City, Muscat",209 Sq. M.,3
+"29,500",Apartment,"Al Khoud, Muscat",60 Sq. M.,1
+"133,000",Residential Land,"Al Maabilah, Muscat",400 Sq. M.,not available
+"20,000",Residential Land,"Al Amarat, Muscat",612 Sq. M.,not available
+"110,000",Apartment,"The Wave (Almouj), Muscat",88 Sq. M.,1
+"72,000",Apartment,"Muscat Hills, Muscat",108 Sq. M.,2
+"14,900",Residential Land,"Barka, Al Batinah",300 Sq. M.,not available
+"41,000",Apartment,"Sultan Haitham City, Muscat",71 Sq. M.,not available
+"10,900",Residential Land,"Al Amarat, Muscat",675 Sq. M.,not available
+"43,000",Apartment,"Al Khoud, Muscat",110 Sq. M.,2
+"67,000",Apartment,"Muscat Hills, Muscat",96 Sq. M.,1
+"39,000",Apartment,"Azaiba, Muscat",98 Sq. M.,2
+"170,000",Residential Land,"Ibra, Al Sharqiya","75,000 Sq. M.",not available
+"900,000",Villa,"Al Hail, Muscat","1,000 Sq. M.",3
+"30,000",Apartment,"Bosher, Muscat",57 Sq. M.,1
+"11,000",Residential Land,"Ibri, Al Dhahirah","1,820 Sq. M.",not available
+"68,000",Apartment,"Bosher, Muscat",165 Sq. M.,3
+"45,500",Villa,"Al Khaboura, Al Batinah",235 Sq. M.,3
+"180,000",Residential Land,"Al Mawaleh, Muscat",900 Sq. M.,not available
+"54,000",Apartment,"Azaiba, Muscat",101 Sq. M.,2
+"56,500",Apartment,"Al Maabilah, Muscat",50 Sq. M.,1
+"300,000",Apartment,"Muscat - Other, Muscat",100 Sq. M.,3
+"111,700",Villa,"Sultan Haitham City, Muscat",194 Sq. M.,3
+"50,000",Apartment,"Sultan Haitham City, Muscat",75 Sq. M.,1
+"220,000",Apartment,"Qantab, Muscat",199 Sq. M.,2
+"140,000",Villa,"Al Mawaleh, Muscat",600 Sq. M.,6
+"298,000",Apartment,"Qantab, Muscat",355 Sq. M.,3
+"224,000",Villa,"Muscat Hills, Muscat",280 Sq. M.,3
+"583,890",Villa,"Qantab, Muscat",422 Sq. M.,4
+"200,000",Residential Land,"Misfah, Muscat","1,820 Sq. M.",not available
+"90,000",Villa,"Al Khoud, Muscat",293 Sq. M.,5
+"45,500",Apartment,"Salalah, Dhofar",38 Sq. M.,not available
+"666,000",Villa,"The Wave (Almouj), Muscat",524 Sq. M.,7
+"50,000",Residential Land,"Ibra, Al Sharqiya","2,500 Sq. M.",not available
+"60,486",Apartment,"Bosher, Muscat",114 Sq. M.,2
+"60,995",Apartment,"Bosher, Muscat",100 Sq. M.,2
+"89,255",Apartment,"Yiti, Muscat",58 Sq. M.,1
+"180,000",Residential Land,"Al Seeb, Muscat","1,629 Sq. M.",not available
+"139,000",Apartment,"The Wave (Almouj), Muscat",118 Sq. M.,1
+"470,486",Apartment,"The Wave (Almouj), Muscat",203 Sq. M.,2
+"70,000",Residential Land,"Ruwi, Muscat",531 Sq. M.,not available
+"57,000",Apartment,"Al Hail, Muscat",165 Sq. M.,2
+"355,000",Residential Land,"Al Maabilah, Muscat","1,500 Sq. M.",not available
+"117,000",Apartment,"Al Sifah, Muscat",124 Sq. M.,2
+"135,000",Apartment,"Al Sifah, Muscat",157 Sq. M.,3
+"48,100",Apartment,"Sultan Haitham City, Muscat",74 Sq. M.,1
+"133,000",Apartment,"The Wave (Almouj), Muscat",83 Sq. M.,1
+"60,000",Villa,"Dima and Al Taaiyin, Al Sharqiya","1,887 Sq. M.",4
+"38,000",Apartment,"Sultan Haitham City, Muscat",52 Sq. M.,1
+"2,300",Residential Land,"Ibri, Al Dhahirah",600 Sq. M.,not available
+"846,945",Apartment,"The Wave (Almouj), Muscat",383 Sq. M.,4
+"88,289",Apartment,"Yiti, Muscat",66 Sq. M.,1
+"72,100",Apartment,"Salalah, Dhofar",78 Sq. M.,1
+"427,400",Villa,"Qantab, Muscat",422 Sq. M.,4
+"11,500",Residential Land,"Saham, Al Batinah","1,800 Sq. M.",not available
+"20,000",Apartment,"Salalah, Dhofar",83 Sq. M.,2
+"27,000",Villa,"Al Masn'a, Al Batinah",195 Sq. M.,4
+"144,000",Apartment,"The Wave (Almouj), Muscat",125 Sq. M.,2
+"318,173",Apartment,"The Wave (Almouj), Muscat",140 Sq. M.,1
+"149,000",Villa,"Al Mawaleh, Muscat",601 Sq. M.,5
+"75,000",Villa,"Salalah, Dhofar",77 Sq. M.,1
+"65,000",Villa,"Salalah, Dhofar",78 Sq. M.,1
+"70,000",Villa,"Salalah, Dhofar",78 Sq. M.,1
+"47,000",Apartment,"Salalah, Dhofar",64 Sq. M.,1
+"45,000",Villa,"Al Amarat, Muscat",600 Sq. M.,3
+"35,500",Apartment,"Bosher, Muscat",79 Sq. M.,1
+"599,600",Apartment,"Muscat - Other, Muscat",262 Sq. M.,3
+"80,000",Villa,"Al Amarat, Muscat",450 Sq. M.,6
+"90,018",Apartment,"Yiti, Muscat",93 Sq. M.,2
+"50,000",Apartment,"Salalah, Dhofar",40 Sq. M.,1
+"55,070",Apartment,"Sultan Haitham City, Muscat",114 Sq. M.,2
+"49,020",Apartment,"Sultan Haitham City, Muscat",72 Sq. M.,1
+"77,250",Apartment,"Salalah, Dhofar",76 Sq. M.,1
+"144,900",Apartment,"The Wave (Almouj), Muscat",119 Sq. M.,2
+"70,000",Apartment,"Madinat As Sultan Qaboos, Muscat",132 Sq. M.,2
+"68,000",Villa,"Al Seeb, Muscat",260 Sq. M.,4
+"74,000",Apartment,"Yiti, Muscat",83 Sq. M.,1
+"50,070",Apartment,"Sultan Haitham City, Muscat",67 Sq. M.,1
+"5,000",Residential Land,"Ibri, Al Dhahirah",600 Sq. M.,not available
+"75,000",Residential Land,"Bosher, Muscat",600 Sq. M.,not available
+"22,000",Residential Land,"Al Masn'a, Al Batinah","4,000 Sq. M.",not available
+"145,000",Apartment,"The Wave (Almouj), Muscat",127 Sq. M.,2
+"214,500",Villa,"Al Maabilah, Muscat",411 Sq. M.,4
+"5,300",Residential Land,"Al Amarat, Muscat",645 Sq. M.,not available
+"125,000",Villa,"Al Khoud, Muscat",400 Sq. M.,9
+"450,000",Apartment,"The Wave (Almouj), Muscat",185 Sq. M.,2
+"31,750",Apartment,"Bosher, Muscat",67 Sq. M.,1
+"49,000",Villa,"Al Maabilah, Muscat",176 Sq. M.,3
+"37,000",Apartment,"Al Maabilah, Muscat",140 Sq. M.,2
+"25,000",Villa,"Saham, Al Batinah",250 Sq. M.,6
+"22,500",Residential Land,"Al Amarat, Muscat",450 Sq. M.,not available
+"38,500",Apartment,"Al Mawaleh, Muscat",101 Sq. M.,2
+"41,414",Apartment,"Sultan Haitham City, Muscat",52 Sq. M.,not available
+"69,815",Apartment,"Sultan Haitham City, Muscat",98 Sq. M.,2
+"2,150",Residential Land,"Shinas, Al Batinah",630 Sq. M.,not available
+"1,406,000",Villa,"Muscat - Other, Muscat",907 Sq. M.,6
+"85,000",Apartment,"Muscat Hills, Muscat",106 Sq. M.,2
+"5,000",Residential Land,"Saham, Al Batinah",662 Sq. M.,not available
+"27,000",Residential Land,"Salalah, Dhofar",646 Sq. M.,not available
+"12,000",Residential Land,"Al Rustaq, Al Batinah",600 Sq. M.,not available
+"140,000",Villa,"Al Khoud, Muscat",330 Sq. M.,5
+"40,000",Apartment,"Al Maabilah, Muscat",120 Sq. M.,3
+"28,000",Apartment,"Al Maabilah, Muscat",123 Sq. M.,3
+"495,000",Apartment,"The Wave (Almouj), Muscat",325 Sq. M.,4
+"490,000",Villa,"The Wave (Almouj), Muscat",519 Sq. M.,5
+"7,500",Residential Land,"Al Masn'a, Al Batinah",529 Sq. M.,not available
+"19,000",Apartment,"Al Maabilah, Muscat",100 Sq. M.,2
+"55,000",Apartment,"Salalah, Dhofar",33 Sq. M.,not available
+"7,000",Residential Land,"Al Amarat, Muscat",600 Sq. M.,not available
+"13,000",Residential Land,"Barka, Al Batinah",600 Sq. M.,not available
+"35,000",Residential Land,"Al Seeb, Muscat",600 Sq. M.,not available
+"181,000",Chalet,"Al Sifah, Muscat",144 Sq. M.,2
+"10,000",Residential Land,"Saham, Al Batinah","1,200 Sq. M.",not available
+"4,000",Residential Land,"Ibri, Al Dhahirah",640 Sq. M.,not available
+"70,000",Residential Land,"Bidbid, Al Dakhiliya","2,000 Sq. M.",not available
+"201,300",Villa,"Al Maabilah, Muscat",395 Sq. M.,3
+"65,000",Residential Land,"Al Rustaq, Al Batinah",960 Sq. M.,not available
+"175,000",Villa,"Al Maabilah, Muscat",333 Sq. M.,4
+"175,000",Villa,"Al Maabilah, Muscat",333 Sq. M.,4
+"49,000",Residential Land,"Suwaiq, Al Batinah","1,819 Sq. M.",not available
+"3,500",Residential Land,"Thumrait, Dhofar",600 Sq. M.,not available
+"80,000",Villa,"Al Khoud, Muscat",300 Sq. M.,6
+"295,000",Villa,"The Wave (Almouj), Muscat",269 Sq. M.,3
+"74,500",Apartment,"Yiti, Muscat",59 Sq. M.,1
+"35,000",Residential Land,"Barka, Al Batinah",600 Sq. M.,not available
+"25,000",Residential Land,"Barka, Al Batinah",600 Sq. M.,not available
+"750,000",Residential Land,"Al Maabilah, Muscat","2,500 Sq. M.",not available
+"49,000",Villa,"Al Maabilah, Muscat",176 Sq. M.,3
+"29,000",Apartment,"Bosher, Muscat",67 Sq. M.,1
+"73,470",Apartment,"Sultan Haitham City, Muscat",109 Sq. M.,2
+"75,000",Residential Land,"Barka, Al Batinah","1,000 Sq. M.",not available
+"55,000",Apartment,"Qurum, Muscat",94 Sq. M.,3
+"100,000",Apartment,"Al Khuwair, Muscat","1,500 Sq. M.",2
+"11,000",Residential Land,"Al Masn'a, Al Batinah","1,202 Sq. M.",not available
+"3,300",Residential Land,"Suwaiq, Al Batinah",648 Sq. M.,not available
+"22,000",Apartment,"Barka, Al Batinah",107 Sq. M.,2
+"14,000",Apartment,"Nizwa, Al Dakhiliya",102 Sq. M.,3
+"11,000",Residential Land,"Nizwa, Al Dakhiliya",600 Sq. M.,not available
+"23,500",Residential Land,"Nizwa, Al Dakhiliya",690 Sq. M.,not available
+"47,000",Apartment,"Salalah, Dhofar",38 Sq. M.,not available
+"483,997",Villa,"The Wave (Almouj), Muscat",314 Sq. M.,4
+"575,000",Villa,"The Wave (Almouj), Muscat",549 Sq. M.,5
+"483,997",Villa,"The Wave (Almouj), Muscat",314 Sq. M.,4
+"13,000",Residential Land,"Barka, Al Batinah",324 Sq. M.,not available
+"95,790",Apartment,"The Wave (Almouj), Muscat",108 Sq. M.,1
+"95,790",Apartment,"The Wave (Almouj), Muscat",107 Sq. M.,1
+"85,000",Villa,"Al Amarat, Muscat",440 Sq. M.,7
+"6,500",Residential Land,"Al Masn'a, Al Batinah",609 Sq. M.,not available
+"6,500",Residential Land,"Al Masn'a, Al Batinah",609 Sq. M.,not available
+"20,000",Apartment,"Misfah, Muscat",56 Sq. M.,1
+"810,000",Residential Land,"Azaiba, Muscat","2,700 Sq. M.",not available
+"43,000",Villa,"Al Masn'a, Al Batinah",230 Sq. M.,5
+"100,000",Residential Land,"Misfah, Muscat",400 Sq. M.,not available
+"57,000",Villa,"Al Amarat, Muscat",211 Sq. M.,3
+"40,000",Villa,"Ibra, Al Sharqiya",200 Sq. M.,3
+"23,000",Residential Land,"Barka, Al Batinah",602 Sq. M.,not available
+820,Residential Land,"Al Bustan, Muscat","11,453 Sq. M.",not available
+"184,350",Apartment,"Yiti, Muscat",96 Sq. M.,1
+"80,495",Apartment,"Bosher, Muscat",137 Sq. M.,3
+"65,000",Villa,"Salalah, Dhofar",78 Sq. M.,1
+"72,000",Apartment,"Al Sifah, Muscat",54 Sq. M.,1
+"26,000",Apartment,"Al Maabilah, Muscat","11,475 Sq. M.",2
+"44,000",Residential Land,"Barka, Al Batinah",431 Sq. M.,not available
+"76,500",Villa,"Al Amarat, Muscat",600 Sq. M.,4
+"4,000,000",Residential Land,"Madinat As Sultan Qaboos, Muscat","19,111 Sq. M.",not available
+"84,000",Villa,"Al Khoud, Muscat",344 Sq. M.,8
+"445,000",Villa,"The Wave (Almouj), Muscat",314 Sq. M.,4
+"55,000",Villa,"Barka, Al Batinah",300 Sq. M.,4
+"110,000",Villa,"Al Hail, Muscat",623 Sq. M.,6
+"15,000",Residential Land,"Barka, Al Batinah",740 Sq. M.,not available
+"680,000",Villa,"Al Ghubrah, Muscat",663 Sq. M.,7
+"379,496",Villa,"Muscat Hills, Muscat",356 Sq. M.,3
+"95,000",Villa,"Al Mawaleh, Muscat",300 Sq. M.,4
+"570,000",Villa,"The Wave (Almouj), Muscat",840 Sq. M.,5
+"55,000",Villa,"Al Maabilah, Muscat",531 Sq. M.,2
+"50,070",Apartment,"Sultan Haitham City, Muscat",67 Sq. M.,1
+"1,480,000",Villa,"The Wave (Almouj), Muscat","1,020 Sq. M.",5
+"25,500",Apartment,"Al Maabilah, Muscat",100 Sq. M.,2
+"4,200,000",Villa,"The Wave (Almouj), Muscat","1,845 Sq. M.",6
+"48,957",Apartment,"Sultan Haitham City, Muscat",71 Sq. M.,1
+"4,200,000",Villa,"The Wave (Almouj), Muscat","1,845 Sq. M.",6
+"132,870",Apartment,"The Wave (Almouj), Muscat",135 Sq. M.,2
+"42,000",Residential Land,"Suwaiq, Al Batinah","3,747 Sq. M.",not available
+"250,000",Villa,"Ansab, Muscat",640 Sq. M.,6
+"150,000",Apartment,"The Wave (Almouj), Muscat",119 Sq. M.,2
+"300,000",Villa,"Bosher, Muscat",665 Sq. M.,5
+"50,000",Apartment,"Salalah, Dhofar",38 Sq. M.,not available
+"455,015",Apartment,"Al Maabilah, Muscat",987 Sq. M.,5
+"88,000",Apartment,"The Wave (Almouj), Muscat",88 Sq. M.,1
+"21,900",Residential Land,"Barka, Al Batinah",600 Sq. M.,not available
+"10,200",Residential Land,"Al Amarat, Muscat",600 Sq. M.,not available
+"41,995",Apartment,"Bosher, Muscat",69 Sq. M.,1
+"305,000",Villa,"The Wave (Almouj), Muscat",247 Sq. M.,3
+"43,000",Apartment,"Salalah, Dhofar",38 Sq. M.,not available
+"185,000",Apartment,"The Wave (Almouj), Muscat",192 Sq. M.,3
+"24,000",Apartment,"Al Maabilah, Muscat",92 Sq. M.,2
+"430,000",Villa,"Yiti, Muscat",288 Sq. M.,4
+"58,000",Residential Land,"Bosher, Muscat",300 Sq. M.,not available
+"49,000",Apartment,"Al Hail, Muscat",109 Sq. M.,2
+"144,000",Apartment,"Salalah, Dhofar",195 Sq. M.,3
+"95,000",Apartment,"Al Sifah, Muscat",124 Sq. M.,2
+"90,000",Apartment,"Al Sifah, Muscat",124 Sq. M.,2
+"140,000",Villa,"Salalah, Dhofar",122 Sq. M.,2
+"45,000",Apartment,"Darsait, Muscat",147 Sq. M.,2
+"97,000",Apartment,"The Wave (Almouj), Muscat",86 Sq. M.,1
+"64,000",Apartment,"Muscat Hills, Muscat",93 Sq. M.,1
+"47,000",Apartment,"Salalah, Dhofar",65 Sq. M.,1
+"80,000",Apartment,"The Wave (Almouj), Muscat",64 Sq. M.,1
+"299,999",Villa,"The Wave (Almouj), Muscat",276 Sq. M.,4
+"41,000",Villa,"Al Maabilah, Muscat",175 Sq. M.,3
+"1,427,000",Villa,"The Wave (Almouj), Muscat","1,001 Sq. M.",5
+"13,300",Residential Land,"Al Amarat, Muscat",600 Sq. M.,not available
+"31,500",Apartment,"Al Maabilah, Muscat",126 Sq. M.,3
+"110,000",Villa,"Salalah, Dhofar",527 Sq. M.,6
+"10,900",Residential Land,"Barka, Al Batinah",708 Sq. M.,not available
+"104,970",Apartment,"Sultan Haitham City, Muscat",154 Sq. M.,3
+"12,000",Residential Land,"Barka, Al Batinah",600 Sq. M.,not available
+"27,000",Villa,"Masira, Al Sharqiya",600 Sq. M.,2
+"98,000",Apartment,"Muscat Hills, Muscat",107 Sq. M.,2
+"130,000",Villa,"Al Seeb, Muscat",330 Sq. M.,3
+"62,000",Residential Land,"Al Amarat, Muscat",452 Sq. M.,not available
+"150,000",Apartment,"The Wave (Almouj), Muscat",165 Sq. M.,2
+"210,000",Villa,"Muscat Hills, Muscat",400 Sq. M.,4
+"310,000",Villa,"Muscat Hills, Muscat",450 Sq. M.,4
+"210,000",Apartment,"The Wave (Almouj), Muscat",145 Sq. M.,2
+"55,000",Apartment,"Salalah, Dhofar",96 Sq. M.,1
+"89,000",Residential Land,"Al Masn'a, Al Batinah",619 Sq. M.,not available
+"127,500",Apartment,"The Wave (Almouj), Muscat",110 Sq. M.,1
+"47,000",Apartment,"Bosher, Muscat",70 Sq. M.,1
+"122,540",Apartment,"Yiti, Muscat",66 Sq. M.,1
+"330,750",Villa,"Qantab, Muscat",495 Sq. M.,3
+"82,000",Residential Land,"Al Amarat, Muscat","7,048 Sq. M.",not available
+"14,900",Residential Land,"Al Seeb, Muscat",300 Sq. M.,not available
+"192,000",Villa,"Bosher, Muscat",420 Sq. M.,6
+"150,000",Residential Land,"Barka, Al Batinah","3,000 Sq. M.",not available
+"31,000",Apartment,"Al Maabilah, Muscat",126 Sq. M.,3
+"84,000",Villa,"Sohar, Al Batinah",346 Sq. M.,6
+"67,000",Apartment,"Muscat Hills, Muscat",74 Sq. M.,1
+"52,000",Apartment,"Ghala, Muscat",96 Sq. M.,2
+"46,000",Villa,"Al Qabil, Al Sharqiya",600 Sq. M.,3
+"6,500",Residential Land,"Sumail, Al Dakhiliya",600 Sq. M.,not available
+"136,267",Apartment,"Yiti, Muscat",93 Sq. M.,2
+"127,000",Apartment,"The Wave (Almouj), Muscat",93 Sq. M.,1
+"64,000",Villa,"Salalah, Dhofar",78 Sq. M.,1
+"116,500",Villa,"Sultan Haitham City, Muscat",147 Sq. M.,3
+"105,000",Apartment,"The Wave (Almouj), Muscat",99 Sq. M.,1
+"66,950",Apartment,"Salalah, Dhofar",78 Sq. M.,1
+"65,000",Apartment,"Al Sifah, Muscat",63 Sq. M.,1
+"41,000",Apartment,"Qurum, Muscat",65 Sq. M.,1
+"188,000",Apartment,"The Wave (Almouj), Muscat",138 Sq. M.,2
+"175,000",Villa,"Al Seeb, Muscat",333 Sq. M.,4
+"220,000",Apartment,"The Wave (Almouj), Muscat",145 Sq. M.,2
+"320,000",Villa,"Al Sifah, Muscat","1,000 Sq. M.",4
+"1,480,000",Villa,"The Wave (Almouj), Muscat","1,020 Sq. M.",5
+"10,000",Residential Land,"Barka, Al Batinah",600 Sq. M.,not available
+"5,000",Residential Land,"Al Amarat, Muscat",600 Sq. M.,not available
+"93,000",Apartment,"The Wave (Almouj), Muscat",90 Sq. M.,1
+"13,000",Residential Land,"Nizwa, Al Dakhiliya","1,248 Sq. M.",not available
+"235,000",Residential Land,"Bosher, Muscat","1,500 Sq. M.",not available
+"105,000",Residential Land,"Al Mawaleh, Muscat",689 Sq. M.,not available
+"48,957",Apartment,"Sultan Haitham City, Muscat",71 Sq. M.,not available
+"79,000",Villa,"Al Maabilah, Muscat",600 Sq. M.,3
+"135,000",Villa,"Al Khoud, Muscat",484 Sq. M.,7
+"629,000",Villa,"The Wave (Almouj), Muscat",676 Sq. M.,5
+"605,000",Villa,"The Wave (Almouj), Muscat",722 Sq. M.,5
+"6,800",Residential Land,"Al Amarat, Muscat",600 Sq. M.,not available
+"54,000",Villa,"Barka, Al Batinah",304 Sq. M.,5
+"110,640",Apartment,"Al Maabilah, Muscat",196 Sq. M.,3
+"9,500",Residential Land,"Qurayyat, Muscat",786 Sq. M.,not available
+"21,500",Apartment,"Al Maabilah, Muscat",84 Sq. M.,2
+"85,000",Villa,"Salalah, Dhofar",78 Sq. M.,1
+"79,000",Residential Land,"Bosher, Muscat",500 Sq. M.,not available
+"105,000",Apartment,"The Wave (Almouj), Muscat",99 Sq. M.,1
+"48,600",Apartment,"Sultan Haitham City, Muscat",67 Sq. M.,1
+"110,000",Villa,"Qurum, Muscat",209 Sq. M.,6
+"85,000",Villa,"Al Maabilah, Muscat",311 Sq. M.,4
+"37,000",Residential Land,"Barka, Al Batinah","1,200 Sq. M.",not available
+"21,500",Apartment,"Al Maabilah, Muscat",84 Sq. M.,2
+"320,000",Villa,"Yiti, Muscat",357 Sq. M.,3
+"1,400,000",Villa,"Al Sifah, Muscat",650 Sq. M.,5
+"52,000",Apartment,"Ghala, Muscat",100 Sq. M.,2
+"79,000",Residential Land,"Al Rusayl, Muscat","1,583 Sq. M.",not available
+"105,000",Apartment,"Bosher, Muscat",242 Sq. M.,3
+"100,000",Apartment,"Al Sifah, Muscat",121 Sq. M.,2
+"73,000",Apartment,"Al Sifah, Muscat",120 Sq. M.,2
+"220,000",Apartment,"The Wave (Almouj), Muscat",145 Sq. M.,2
+"4,300",Residential Land,"Al Mudaibi, Al Sharqiya",600 Sq. M.,not available
+"135,000",Apartment,"Yiti, Muscat",93 Sq. M.,2
+"220,000",Apartment,"The Wave (Almouj), Muscat",145 Sq. M.,2
+"517,000",Villa,"The Wave (Almouj), Muscat",540 Sq. M.,5
+"290,000",Residential Land,"Qurum, Muscat","1,000 Sq. M.",not available
+"139,000",Chalet,"Barka, Al Batinah","6,200 Sq. M.",4
+"55,319",Apartment,"Sohar, Al Batinah",116 Sq. M.,2
+"105,000",Villa,"Al Ghubrah, Muscat",386 Sq. M.,4
+"62,008",Apartment,"Al Maabilah, Muscat",95 Sq. M.,1
+"57,000",Villa,"Saham, Al Batinah",600 Sq. M.,8
+"48,902",Apartment,"Bosher, Muscat",93 Sq. M.,1
+"3,700",Residential Land,"Suwaiq, Al Batinah",662 Sq. M.,not available
+"120,000",Villa,"Al Mawaleh, Muscat",720 Sq. M.,12
+"720,000",Villa,"The Wave (Almouj), Muscat",720 Sq. M.,5
+"24,000",Residential Land,"Bidbid, Al Dakhiliya",600 Sq. M.,not available
+"80,835",Apartment,"Al Maabilah, Muscat",132 Sq. M.,2
+"46,627",Apartment,"Al Maabilah, Muscat",72 Sq. M.,not available
+"62,000",Apartment,"Sultan Haitham City, Muscat",95 Sq. M.,1
+"110,640",Apartment,"Sultan Haitham City, Muscat",196 Sq. M.,3
+"87,735",Apartment,"Al Khoud, Muscat",133 Sq. M.,2
+"113,925",Apartment,"Al Khoud, Muscat",173 Sq. M.,3
+"222,240",Apartment,"Al Khoud, Muscat",360 Sq. M.,4
+"210,000",Apartment,"Barr Al Jissah, Muscat",200 Sq. M.,3
+"46,627",Apartment,"Sultan Haitham City, Muscat",75 Sq. M.,not available
+"32,000",Villa,"Suwaiq, Al Batinah",625 Sq. M.,2
+"53,000",Apartment,"Al Sifah, Muscat",91 Sq. M.,1
+"58,000",Apartment,"Al Ghubrah, Muscat",100 Sq. M.,2
+"50,000",Apartment,"Al Sifah, Muscat",61 Sq. M.,1
+"446,000",Villa,"The Wave (Almouj), Muscat",314 Sq. M.,4
+"23,700",Apartment,"Al Amarat, Muscat",118 Sq. M.,3
+"115,000",Apartment,"The Wave (Almouj), Muscat",159 Sq. M.,1
+"80,835",Apartment,"Sultan Haitham City, Muscat",132 Sq. M.,2
+"38,000",Residential Land,"Al Amarat, Muscat",400 Sq. M.,not available
+"41,000",Apartment,"Al Seeb, Muscat",47 Sq. M.,not available
+"66,000",Villa,"Barka, Al Batinah",360 Sq. M.,5
+"160,000",Residential Land,"Ruwi, Muscat",460 Sq. M.,not available
+"202,000",Villa,"Al Ghubrah, Muscat",700 Sq. M.,6
+"517,000",Villa,"The Wave (Almouj), Muscat",427 Sq. M.,5
+"60,000",Apartment,"Qurum, Muscat",118 Sq. M.,2
+"89,500",Apartment,"Muscat Hills, Muscat",118 Sq. M.,2
+"47,500",Villa,"Barka, Al Batinah",632 Sq. M.,3
+"58,000",Villa,"Sumail, Al Dakhiliya",237 Sq. M.,3
+"2,650",Residential Land,"Ibri, Al Dhahirah",600 Sq. M.,not available
+"11,000",Residential Land,"Barka, Al Batinah",600 Sq. M.,not available
+"115,000",Villa,"Ansab, Muscat",298 Sq. M.,7
+999,Residential Land,"Sohar, Al Batinah","1,525 Sq. M.",not available
+"132,300",Villa,"Al Maabilah, Muscat",210 Sq. M.,3
+"16,800",Residential Land,"Barka, Al Batinah","1,200 Sq. M.",not available
+"170,000",Apartment,"Barr Al Jissah, Muscat",199 Sq. M.,2
+"53,000",Villa,"Barka, Al Batinah",260 Sq. M.,2
+"460,950",Villa,"The Wave (Almouj), Muscat",314 Sq. M.,4
+"2,200",Residential Land,"Saham, Al Batinah",650 Sq. M.,not available
+"68,000",Apartment,"Qurum, Muscat",131 Sq. M.,2
+"55,000",Apartment,"Qurum, Muscat",94 Sq. M.,3
+"290,000",Villa,"Al Mawaleh, Muscat",794 Sq. M.,5
+"10,500",Residential Land,"Al Masn'a, Al Batinah",650 Sq. M.,not available
+"156,500",Apartment,"The Wave (Almouj), Muscat",119 Sq. M.,2
+"51,101",Apartment,"Al Khoud, Muscat",57 Sq. M.,1
+"195,000",Villa,"The Wave (Almouj), Muscat",202 Sq. M.,3
+"220,000",Residential Land,"Barka, Al Batinah",600 Sq. M.,not available
+"85,000",Apartment,"Al Khuwair, Muscat",174 Sq. M.,3
+"170,000",Villa,"Al Sifah, Muscat",145 Sq. M.,3
+"134,583",Apartment,"The Wave (Almouj), Muscat",83 Sq. M.,1
+"22,000",Residential Land,"Barka, Al Batinah",600 Sq. M.,not available
+"13,000",Residential Land,"Barka, Al Batinah",600 Sq. M.,not available
+"41,000",Apartment,"Sultan Haitham City, Muscat",53 Sq. M.,not available
+"15,000",Residential Land,"Qurayyat, Muscat",600 Sq. M.,not available
+"148,000",Apartment,"The Wave (Almouj), Muscat",86 Sq. M.,1
+"2,750",Residential Land,"Al Rustaq, Al Batinah",500 Sq. M.,not available
+"115,000",Apartment,"Al Sifah, Muscat",124 Sq. M.,2
+"79,000",Villa,"Al Amarat, Muscat",305 Sq. M.,7
+"125,000",Apartment,"The Wave (Almouj), Muscat",82 Sq. M.,1
+"73,000",Residential Land,"Al Seeb, Muscat",614 Sq. M.,not available
+"25,500",Apartment,"Al Khoud, Muscat",67 Sq. M.,1
+"39,900",Apartment,"Al Khoud, Muscat",108 Sq. M.,2
+"71,000",Villa,"Salalah, Dhofar",77 Sq. M.,1
+"128,000",Apartment,"The Wave (Almouj), Muscat",83 Sq. M.,1
+"85,000",Villa,"Al Maabilah, Muscat",319 Sq. M.,6
+"97,000",Apartment,"Salalah, Dhofar",61 Sq. M.,1
+"25,000",Apartment,"Ghala, Muscat",55 Sq. M.,1
+"22,000",Villa,"Izki, Al Dakhiliya",344 Sq. M.,4
+"43,500",Apartment,"Muscat - Other, Muscat",42 Sq. M.,1
+"43,000",Residential Land,"Barka, Al Batinah","1,341 Sq. M.",not available
+"65,044",Apartment,"Sohar, Al Batinah",135 Sq. M.,3
+"95,451",Apartment,"Yiti, Muscat",68 Sq. M.,1
+"135,000",Villa,"The Wave (Almouj), Muscat",150 Sq. M.,2
+"210,000",Villa,"Bosher, Muscat",500 Sq. M.,6
+"16,000",Residential Land,"Suwaiq, Al Batinah",600 Sq. M.,not available
+"60,000",Apartment,"Al Khoud, Muscat",126 Sq. M.,3
+"46,650",Apartment,"Al Maabilah, Muscat",71 Sq. M.,not available
+"98,568",Apartment,"Al Maabilah, Muscat",157 Sq. M.,2
+"59,296",Apartment,"Al Maabilah, Muscat",95 Sq. M.,1
+"57,380",Apartment,"Sohar, Al Batinah",120 Sq. M.,3
+"49,420",Apartment,"Sohar, Al Batinah",97 Sq. M.,2
+"35,864",Apartment,"Sohar, Al Batinah",74 Sq. M.,1
+"55,000",Villa,"Barka, Al Batinah",275 Sq. M.,4
+"190,000",Villa,"Yiti, Muscat",125 Sq. M.,3
+200,Residential Land,"Al Rusayl, Muscat","1,402 Sq. M.",not available
+"155,000",Villa,"Al Ghubrah, Muscat",600 Sq. M.,5
+"72,000",Apartment,"Al Khuwair, Muscat",151 Sq. M.,1
+"30,500",Apartment,"Azaiba, Muscat",72 Sq. M.,1
+"220,000",Apartment,"The Wave (Almouj), Muscat",145 Sq. M.,2
+"115,000",Apartment,"Barr Al Jissah, Muscat",140 Sq. M.,2
+"80,000",Apartment,"The Wave (Almouj), Muscat",65 Sq. M.,1
+"109,000",Apartment,"Al Sifah, Muscat",124 Sq. M.,2
+"25,500",Apartment,"Al Maabilah, Muscat",101 Sq. M.,3
+"380,000",Villa,"The Wave (Almouj), Muscat",502 Sq. M.,5
+"63,750",Apartment,"Al Khuwair, Muscat",140 Sq. M.,2
+"190,000",Villa,"Al Hail, Muscat",600 Sq. M.,5
+"67,000",Villa,"Al Amarat, Muscat",321 Sq. M.,6
+"77,000",Villa,"Al Seeb, Muscat",343 Sq. M.,4
+"30,000",Apartment,"Al Maabilah, Muscat",101 Sq. M.,2
+"97,000",Residential Land,"Al Amarat, Muscat",500 Sq. M.,not available
+"77,210",Apartment,"Muscat Hills, Muscat",132 Sq. M.,2
+"63,210",Apartment,"Muscat Hills, Muscat",100 Sq. M.,1
+"15,500",Residential Land,"Barka, Al Batinah",702 Sq. M.,not available
+"57,000",Villa,"Al Amarat, Muscat",300 Sq. M.,4
+"12,000",Residential Land,"Ibra, Al Sharqiya","1,300 Sq. M.",not available
+"160,000",Apartment,"The Wave (Almouj), Muscat",162 Sq. M.,2
+"1,200,000",Villa,"Bosher, Muscat",774 Sq. M.,7
+"79,000",Chalet,"Mirbat, Dhofar",300 Sq. M.,3
+"33,250",Apartment,"Al Seeb, Muscat",50 Sq. M.,not available
+"24,000",Residential Land,"Al Amarat, Muscat",900 Sq. M.,not available
+"26,000",Residential Land,"Barka, Al Batinah",600 Sq. M.,not available
+"517,000",Villa,"The Wave (Almouj), Muscat",540 Sq. M.,5
+"111,700",Villa,"Sultan Haitham City, Muscat",147 Sq. M.,3
+"20,400",Apartment,"Al Hail, Muscat",48 Sq. M.,not available
+"33,500",Apartment,"Salalah, Dhofar",143 Sq. M.,1
+"115,000",Residential Land,"Al Mawaleh, Muscat",600 Sq. M.,not available
+"7,500",Residential Land,"Izki, Al Dakhiliya",600 Sq. M.,not available
+"66,000",Villa,"Al Maabilah, Muscat",509 Sq. M.,3
+"200,000",Villa,"The Wave (Almouj), Muscat",192 Sq. M.,3
+"46,000",Apartment,"Bosher, Muscat",81 Sq. M.,2
+"2,150,000",Residential Land,"Al Rusayl, Muscat","13,422 Sq. M.",not available
+"485,000",Villa,"The Wave (Almouj), Muscat",545 Sq. M.,6
+"220,000",Apartment,"Qantab, Muscat",200 Sq. M.,2
+"400,000",Villa,"The Wave (Almouj), Muscat",525 Sq. M.,4
+"125,000",Apartment,"The Wave (Almouj), Muscat",83 Sq. M.,1
+"42,000",Residential Land,"Barka, Al Batinah","3,137 Sq. M.",not available
+"47,000",Apartment,"Sohar, Al Batinah",110 Sq. M.,2
+"340,000",Villa,"Al Maabilah, Muscat",380 Sq. M.,4
+"14,500",Residential Land,"Al Amarat, Muscat",687 Sq. M.,not available
+"48,000",Residential Land,"Al Masn'a, Al Batinah","1,250 Sq. M.",not available
+"295,000",Apartment,"The Wave (Almouj), Muscat",265 Sq. M.,3
+"9,250",Residential Land,"Barka, Al Batinah",766 Sq. M.,not available
+"45,900",Apartment,"Al Khuwair, Muscat",86 Sq. M.,1
+"345,000",Villa,"The Wave (Almouj), Muscat",490 Sq. M.,4
+"88,000",Apartment,"The Wave (Almouj), Muscat",83 Sq. M.,1
+"160,000",Apartment,"The Wave (Almouj), Muscat",142 Sq. M.,2
+"6,000",Residential Land,"Izki, Al Dakhiliya",621 Sq. M.,not available
+"5,300",Residential Land,"Izki, Al Dakhiliya",600 Sq. M.,not available
+"10,000",Residential Land,"Al 'Awabi, Al Batinah",617 Sq. M.,not available
+"100,000",Residential Land,"Al Khuwair, Muscat",400 Sq. M.,not available
+"17,000",Residential Land,"Saham, Al Batinah","1,234 Sq. M.",not available
+"81,000",Villa,"Al Amarat, Muscat",369 Sq. M.,6
+"90,000",Apartment,"Yiti, Muscat",80 Sq. M.,1
+"55,000",Residential Land,"Barka, Al Batinah",330 Sq. M.,not available
+"31,500",Apartment,"Darsait, Muscat",76 Sq. M.,2
+"550,000",Villa,"Muscat Hills, Muscat","1,350 Sq. M.",5
+"53,999",Apartment,"Taqah, Dhofar",65 Sq. M.,1
+"60,000",Apartment,"Al Khoud, Muscat",126 Sq. M.,3
+"39,900",Apartment,"Al Khoud, Muscat",47 Sq. M.,1
+"39,900",Apartment,"Al Khoud, Muscat",45 Sq. M.,not available
+"39,000",Villa,"Sohar, Al Batinah",180 Sq. M.,3
+"28,000",Residential Land,"Ibra, Al Sharqiya",920 Sq. M.,not available
+"28,000",Apartment,"Ansab, Muscat",92 Sq. M.,2
+"6,700",Residential Land,"Barka, Al Batinah",600 Sq. M.,not available
+"7,000",Residential Land,"Al Khaboura, Al Batinah",651 Sq. M.,not available
+"54,000",Villa,"Barka, Al Batinah",330 Sq. M.,4
+"260,000",Villa,"Muscat Hills, Muscat",309 Sq. M.,4
+"355,000",Villa,"The Wave (Almouj), Muscat",543 Sq. M.,4
+"30,000",Residential Land,"Al Amarat, Muscat",768 Sq. M.,not available
+"515,000",Residential Land,"Madinat As Sultan Qaboos, Muscat","1,912 Sq. M.",not available
+"80,000",Villa,"Al Maabilah, Muscat",315 Sq. M.,5
+"1,025,000",Villa,"Qantab, Muscat",646 Sq. M.,5
+"13,500",Residential Land,"Al Amarat, Muscat",600 Sq. M.,not available
+"135,000",Apartment,"The Wave (Almouj), Muscat",144 Sq. M.,2
+"37,000",Villa,"Al Amarat, Muscat",300 Sq. M.,3
+"110,500",Apartment,"Al Maabilah, Muscat",170 Sq. M.,2
+"48,000",Apartment,"Al Khuwair, Muscat",86 Sq. M.,1
+"750,000",Villa,"Madinat As Sultan Qaboos, Muscat","1,800 Sq. M.",6
+"33,000",Residential Land,"Dima and Al Taaiyin, Al Sharqiya","2,000 Sq. M.",not available
+"22,000",Villa,"Suwaiq, Al Batinah",119 Sq. M.,3
+"121,200",Villa,"Al Maabilah, Muscat",205 Sq. M.,3
+"5,500",Residential Land,"Al Buraimi, Al Buraimi",664 Sq. M.,not available
+"92,100",Apartment,"Muscat Hills, Muscat",126 Sq. M.,2
+"94,860",Apartment,"Muscat Hills, Muscat",126 Sq. M.,2
+"77,802",Apartment,"Muscat Hills, Muscat",119 Sq. M.,2
+"75,246",Apartment,"Muscat Hills, Muscat",104 Sq. M.,2
+"450,000",Villa,"The Wave (Almouj), Muscat",630 Sq. M.,4
+"247,000",Villa,"Al Maabilah, Muscat",456 Sq. M.,4
+"169,000",Villa,"Al Maabilah, Muscat",210 Sq. M.,3
+"950,000",Villa,"Qantab, Muscat",646 Sq. M.,5
+"120,987",Apartment,"Al Maabilah, Muscat",193 Sq. M.,3
+"185,000",Apartment,"The Wave (Almouj), Muscat",167 Sq. M.,2
+"560,000",Villa,"Barr Al Jissah, Muscat",999 Sq. M.,5
+"64,000",Apartment,"Yiti, Muscat",52 Sq. M.,not available
+"38,000",Apartment,"Bosher, Muscat",72 Sq. M.,2
+"126,750",Apartment,"Al Maabilah, Muscat",195 Sq. M.,3
+"120,000",Villa,"Al Amarat, Muscat",600 Sq. M.,3
+"465,000",Villa,"Barr Al Jissah, Muscat",768 Sq. M.,4
+"100,000",Apartment,"Muscat Hills, Muscat",160 Sq. M.,2
+"146,000",Villa,"Al Mawaleh, Muscat",600 Sq. M.,6
+"120,000",Residential Land,"Barka, Al Batinah","4,600 Sq. M.",not available
+"79,500",Apartment,"The Wave (Almouj), Muscat",70 Sq. M.,1
+"75,000",Residential Land,"Qantab, Muscat",400 Sq. M.,not available
+"165,000",Villa,"Al Wadi Al Kabir, Muscat",601 Sq. M.,9
+"85,000",Apartment,"The Wave (Almouj), Muscat",96 Sq. M.,1
+"125,000",Villa,"Al Khuwair, Muscat",450 Sq. M.,8
+"59,000",Villa,"Al Khoud, Muscat",404 Sq. M.,3
+"80,000",Apartment,"Salalah, Dhofar",125 Sq. M.,2
+"210,000",Chalet,"Barka, Al Batinah","4,700 Sq. M.",3
+"11,500",Residential Land,"Liwa, Al Batinah",500 Sq. M.,not available
+"15,000",Residential Land,"Sohar, Al Batinah","1,000 Sq. M.",not available
+"25,000",Residential Land,"Al Khaboura, Al Batinah","1,200 Sq. M.",not available
+"250,000",Residential Land,"Sohar, Al Batinah","1,400 Sq. M.",not available
+"25,000",Apartment,"Al Amarat, Muscat",120 Sq. M.,3
+"3,200",Residential Land,"Suwaiq, Al Batinah",600 Sq. M.,not available
+"65,000",Villa,"Al Amarat, Muscat",305 Sq. M.,4
+"44,000",Apartment,"Al Sifah, Muscat",39 Sq. M.,not available
+"480,000",Villa,"The Wave (Almouj), Muscat",680 Sq. M.,5
+"55,000",Villa,"Al Amarat, Muscat",287 Sq. M.,5
+"46,000",Residential Land,"Nizwa, Al Dakhiliya",615 Sq. M.,not available
+"120,250",Apartment,"Al Maabilah, Muscat",185 Sq. M.,3
+"133,575",Apartment,"Al Maabilah, Muscat",195 Sq. M.,3
+"142,000",Apartment,"The Wave (Almouj), Muscat",127 Sq. M.,2
+"147,500",Apartment,"Al Sifah, Muscat",162 Sq. M.,3
+"39,000",Residential Land,"Sohar, Al Batinah","1,200 Sq. M.",not available
+"39,000",Villa,"Al Seeb, Muscat",411 Sq. M.,8
+"50,730",Apartment,"Al Maabilah, Muscat",75 Sq. M.,1
+"97,030",Apartment,"Al Maabilah, Muscat",155 Sq. M.,3
+"73,000",Villa,"Al Amarat, Muscat",350 Sq. M.,5
+"48,902",Apartment,"Bosher, Muscat",95 Sq. M.,2
+"1,000,000",Residential Land,"Qurum, Muscat","2,500 Sq. M.",not available
+"158,000",Apartment,"Sultan Haitham City, Muscat",211 Sq. M.,2
+"70,000",Apartment,"Sultan Haitham City, Muscat",110 Sq. M.,2
+"176,000",Villa,"Sultan Haitham City, Muscat",220 Sq. M.,3
+"265,000",Villa,"Al Sifah, Muscat",300 Sq. M.,2
+"70,000",Apartment,"Al Ghubrah, Muscat",71 Sq. M.,1
+"12,000",Residential Land,"Ibra, Al Sharqiya","3,058 Sq. M.",not available
+"240,000",Apartment,"The Wave (Almouj), Muscat",126 Sq. M.,2
+"128,700",Apartment,"Al Maabilah, Muscat",195 Sq. M.,3
+"18,000",Residential Land,"Barka, Al Batinah",600 Sq. M.,not available
+"265,000",Villa,"Al Sifah, Muscat",300 Sq. M.,3
+"71,582",Apartment,"Al Maabilah, Muscat",110 Sq. M.,2
+"100,000",Villa,"Al Khuwair, Muscat",196 Sq. M.,4
+"320,000",Villa,"The Wave (Almouj), Muscat",325 Sq. M.,4
+"90,000",Villa,"Al Seeb, Muscat",245 Sq. M.,3
+"100,000",Apartment,"Al Ghubrah, Muscat",106 Sq. M.,2
+"265,000",Villa,"Madinat As Sultan Qaboos, Muscat",387 Sq. M.,4
+"253,000",Villa,"Muscat Hills, Muscat",365 Sq. M.,5
+"55,000",Residential Land,"Al Amarat, Muscat",674 Sq. M.,not available
+"15,000",Residential Land,"Qurayyat, Muscat",600 Sq. M.,not available
+"716,030",Apartment,"Yiti, Muscat",215 Sq. M.,3
+"120,923",Apartment,"Qurum, Muscat",172 Sq. M.,3
+"3,000",Residential Land,"Al Mudaibi, Al Sharqiya",600 Sq. M.,not available
+"445,000",Villa,"Muscat Hills, Muscat","1,645 Sq. M.",9
+"44,000",Apartment,"Al Sifah, Muscat",38 Sq. M.,not available
+"58,500",Apartment,"Salalah, Dhofar",110 Sq. M.,2
+"225,000",Apartment,"The Wave (Almouj), Muscat",145 Sq. M.,2
+"22,500",Apartment,"Al Maabilah, Muscat",100 Sq. M.,1
+"1,002",Villa,"Mutrah, Muscat",100 Sq. M.,1
+"63,000",Villa,"Al Amarat, Muscat",311 Sq. M.,5
+"22,400",Residential Land,"Nizwa, Al Dakhiliya",796 Sq. M.,not available
+"105,000",Residential Land,"Al Mawaleh, Muscat",680 Sq. M.,not available
+"20,000",Residential Land,"Suwaiq, Al Batinah",644 Sq. M.,not available
+"110,000",Apartment,"Sultan Haitham City, Muscat",169 Sq. M.,3
+"49,000",Apartment,"Qurum, Muscat",68 Sq. M.,1
+"74,000",Villa,"Al Bustan, Muscat",230 Sq. M.,4
+"5,800",Residential Land,"Al Rustaq, Al Batinah",690 Sq. M.,not available
+"405,000",Apartment,"Qurum, Muscat",131 Sq. M.,2
+"47,300",Apartment,"Al Khoud, Muscat",56 Sq. M.,1
+"50,000",Apartment,"Al Seeb, Muscat",75 Sq. M.,1
+"100,000",Residential Land,"Al Seeb, Muscat","1,313 Sq. M.",not available
+"205,000",Villa,"Al Amarat, Muscat",520 Sq. M.,6
+"22,500",Apartment,"Salalah, Dhofar",75 Sq. M.,2
+"203,000",Apartment,"The Wave (Almouj), Muscat",177 Sq. M.,2
+"49,000",Residential Land,"Al Maabilah, Muscat",600 Sq. M.,not available
+"57,500",Apartment,"Al Sifah, Muscat",54 Sq. M.,1
+"115,000",Apartment,"The Wave (Almouj), Muscat",109 Sq. M.,1
+"127,931",Apartment,"Yiti, Muscat",118 Sq. M.,2
+"380,000",Villa,"The Wave (Almouj), Muscat",383 Sq. M.,5
+"37,000",Apartment,"Bosher, Muscat",122 Sq. M.,2
+"6,000",Residential Land,"Al Jazur, Al Wusta",300 Sq. M.,not available
+"103,000",Residential Land,"Al Mawaleh, Muscat",680 Sq. M.,not available
+"40,000",Apartment,"Al Khoud, Muscat",38 Sq. M.,1
+"37,200",Apartment,"Al Maabilah, Muscat",50 Sq. M.,1
+"33,000",Residential Land,"Al Amarat, Muscat",345 Sq. M.,not available
+"345,000",Villa,"Bosher, Muscat",550 Sq. M.,7
+"149,000",Villa,"The Wave (Almouj), Muscat",188 Sq. M.,1
+"72,000",Villa,"Barka, Al Batinah",600 Sq. M.,5
+"269,290",Villa,"Yiti, Muscat",209 Sq. M.,3
+"149,044",Apartment,"Qurum, Muscat",212 Sq. M.,4
+"240,000",Apartment,"Muscat Hills, Muscat",407 Sq. M.,4
+"120,000",Apartment,"The Wave (Almouj), Muscat",112 Sq. M.,2
+"1,600,000",Villa,"The Wave (Almouj), Muscat",907 Sq. M.,6
+"21,000",Residential Land,"Al Maabilah, Muscat",300 Sq. M.,not available
+"499,000",Villa,"The Wave (Almouj), Muscat",427 Sq. M.,5
+"68,000",Villa,"Barka, Al Batinah",600 Sq. M.,5
+"100,000",Villa,"Al Maabilah, Muscat",300 Sq. M.,5
+"233,300",Villa,"Sultan Haitham City, Muscat",400 Sq. M.,4
+"41,900",Apartment,"Bosher, Muscat",78 Sq. M.,1
+"28,000",Residential Land,"Sumail, Al Dakhiliya",300 Sq. M.,not available
+"350,000",Residential Land,"Al Seeb, Muscat",900 Sq. M.,not available
+"250,000",Villa,"Ansab, Muscat",600 Sq. M.,6
+"260,000",Villa,"Al Maabilah, Muscat",656 Sq. M.,7
+"29,000",Apartment,"Bosher, Muscat",67 Sq. M.,1
+"141,780",Apartment,"Yiti, Muscat",89 Sq. M.,2
+"85,034",Apartment,"Yiti, Muscat",79 Sq. M.,1
+"58,500",Apartment,"Bosher, Muscat",111 Sq. M.,2
+"47,500",Apartment,"Bosher, Muscat",89 Sq. M.,1
+"63,800",Apartment,"Muscat Hills, Muscat",100 Sq. M.,1
+"73,000",Apartment,"Muscat Hills, Muscat",105 Sq. M.,2
+"1,600,000",Villa,"The Wave (Almouj), Muscat",900 Sq. M.,6
+"144,900",Apartment,"The Wave (Almouj), Muscat",187 Sq. M.,1
+"567,000",Villa,"The Wave (Almouj), Muscat",314 Sq. M.,4
+"155,000",Apartment,"The Wave (Almouj), Muscat",80 Sq. M.,1
+"257,655",Apartment,"Yiti, Muscat",169 Sq. M.,3
+950,Residential Land,"Azaiba, Muscat","20,544 Sq. M.",not available
+"5,900",Residential Land,"Sumail, Al Dakhiliya",600 Sq. M.,not available
+"101,000",Apartment,"The Wave (Almouj), Muscat",97 Sq. M.,1
+"435,000",Villa,"The Wave (Almouj), Muscat",457 Sq. M.,5
+"36,000",Chalet,"Bidiya, Al Sharqiya",650 Sq. M.,3
+"7,000",Residential Land,"Mirbat, Dhofar",600 Sq. M.,not available
+"4,000",Residential Land,"Sumail, Al Dakhiliya",696 Sq. M.,not available
+"75,100",Residential Land,"Barka, Al Batinah","1,000 Sq. M.",not available
+"40,000",Residential Land,"Ansab, Muscat",300 Sq. M.,not available
+"75,000",Residential Land,"Al Rusayl, Muscat","1,100 Sq. M.",not available
+"28,500",Apartment,"Bosher, Muscat",50 Sq. M.,1
+"190,000",Apartment,"The Wave (Almouj), Muscat",156 Sq. M.,2
+"10,000",Chalet,"Barka, Al Batinah",611 Sq. M.,1
+"650,000",Villa,"Yiti, Muscat",382 Sq. M.,5
+"200,000",Apartment,"The Wave (Almouj), Muscat",145 Sq. M.,2
+"195,000",Chalet,"Al Sifah, Muscat",820 Sq. M.,3
+"64,977",Apartment,"Qurum, Muscat",89 Sq. M.,2
+"34,000",Apartment,"Al Bustan, Muscat",100 Sq. M.,3
+"350,000",Villa,"Barka, Al Batinah","6,750 Sq. M.",5
+"25,000",Apartment,"Al Duqum, Al Wusta",59 Sq. M.,1
+"2,000",Residential Land,"Mahut, Al Wusta",600 Sq. M.,not available
+"91,000",Residential Land,"Al Khoud, Muscat",600 Sq. M.,not available
+"265,000",Villa,"Al Sifah, Muscat",300 Sq. M.,2
+"38,900",Apartment,"Al Khoud, Muscat",76 Sq. M.,2
+"54,000",Apartment,"Bosher, Muscat",109 Sq. M.,2
+"96,476",Apartment,"Al Khoud, Muscat",112 Sq. M.,2
+"84,000",Apartment,"Muscat Hills, Muscat",138 Sq. M.,2
+"65,000",Apartment,"Muscat Hills, Muscat",70 Sq. M.,1
+"300,000",Villa,"The Wave (Almouj), Muscat",259 Sq. M.,3
+"3,500",Residential Land,"Al Amarat, Muscat",600 Sq. M.,not available
+"380,000",Residential Land,"Bosher, Muscat","1,429 Sq. M.",not available
+"90,000",Residential Land,"Al Mawaleh, Muscat",600 Sq. M.,not available
+"183,492",Villa,"Al Sifah, Muscat",183 Sq. M.,5
+"26,000",Apartment,"Al Maabilah, Muscat",100 Sq. M.,2
+"26,000",Apartment,"Al Maabilah, Muscat",100 Sq. M.,2
+"67,200",Apartment,"Muscat Hills, Muscat",71 Sq. M.,1
+"85,000",Villa,"Al Wadi Al Kabir, Muscat",463 Sq. M.,8
+"69,000",Villa,"Al Maabilah, Muscat",287 Sq. M.,6
+"13,000",Residential Land,"Sumail, Al Dakhiliya",600 Sq. M.,not available
+"41,000",Apartment,"Al Khuwair, Muscat",91 Sq. M.,2
+"20,000",Residential Land,"Barka, Al Batinah",615 Sq. M.,not available
+"380,000",Residential Land,"Sohar, Al Batinah","2,500 Sq. M.",not available
+"130,000",Villa,"Al Khoud, Muscat",450 Sq. M.,9
+"52,000",Apartment,"Al Ghubrah, Muscat",94 Sq. M.,2
+"38,500",Residential Land,"Al Maabilah, Muscat",600 Sq. M.,not available
+"72,223",Apartment,"Al Seeb, Muscat",102 Sq. M.,1
+"78,000",Villa,"Nizwa, Al Dakhiliya",500 Sq. M.,4
+"85,000",Apartment,"Yiti, Muscat",72 Sq. M.,1
+"34,000",Apartment,"Al Maabilah, Muscat",134 Sq. M.,3
+"137,000",Apartment,"The Wave (Almouj), Muscat",126 Sq. M.,2
+"66,988",Apartment,"Ghala, Muscat",167 Sq. M.,3
+"50,284",Apartment,"Ghala, Muscat",125 Sq. M.,2
+"108,990",Apartment,"Al Maabilah, Muscat",154 Sq. M.,3
+195,Residential Land,"Bosher, Muscat",802 Sq. M.,not available
+"80,000",Apartment,"Qurum, Muscat",139 Sq. M.,2
+"54,000",Apartment,"Sultan Haitham City, Muscat",70 Sq. M.,1
+"122,994",Apartment,"Yiti, Muscat",88 Sq. M.,2
+"170,000",Apartment,"The Wave (Almouj), Muscat",60 Sq. M.,2
+"450,000",Villa,"The Wave (Almouj), Muscat",630 Sq. M.,4
+"227,100",Villa,"Al Maabilah, Muscat",412 Sq. M.,5
+"110,000",Chalet,"Barka, Al Batinah","1,890 Sq. M.",4
+"210,000",Villa,"Al Sifah, Muscat","1,080 Sq. M.",3
+"85,000",Apartment,"Al Sifah, Muscat",105 Sq. M.,2
+"250,000",Residential Land,"Qurayyat, Muscat","2,500 Sq. M.",not available
+"47,000",Apartment,"Salalah, Dhofar",38 Sq. M.,1
+"4,600",Residential Land,"Al Qabil, Al Sharqiya",670 Sq. M.,not available
+"54,000",Residential Land,"Bosher, Muscat",382 Sq. M.,not available
+"89,000",Villa,"Al Maabilah, Muscat",388 Sq. M.,8
+"2,500",Residential Land,"Sohar, Al Batinah",600 Sq. M.,not available
+"277,000",Villa,"Yiti, Muscat",285 Sq. M.,4
+"140,000",Villa,"Al Ghubrah, Muscat",341 Sq. M.,4
+"115,000",Apartment,"The Wave (Almouj), Muscat",144 Sq. M.,2
+"500,000",Residential Land,"Bidiya, Al Sharqiya","1,572 Sq. M.",not available
+"29,000",Apartment,"Al Maabilah, Muscat",141 Sq. M.,3
+"145,000",Villa,"Ansab, Muscat",350 Sq. M.,4
+"8,900",Residential Land,"Nizwa, Al Dakhiliya",630 Sq. M.,not available
+"66,000",Villa,"Al Amarat, Muscat",344 Sq. M.,8
+"61,000",Residential Land,"Al Amarat, Muscat",200 Sq. M.,not available
+"6,000",Residential Land,"Al Amarat, Muscat",600 Sq. M.,not available
+"180,000",Apartment,"Barr Al Jissah, Muscat",200 Sq. M.,2
+"185,000",Apartment,"Barr Al Jissah, Muscat",200 Sq. M.,2
+"85,000",Apartment,"Yiti, Muscat","86,500 Sq. M.",1
+"65,000",Apartment,"Muscat Hills, Muscat",79 Sq. M.,1
+"7,500",Residential Land,"Al Kamil and Al Waafi, Al Sharqiya",600 Sq. M.,not available
+"125,000",Apartment,"The Wave (Almouj), Muscat",120 Sq. M.,1
+"21,800",Residential Land,"Salalah, Dhofar",600 Sq. M.,not available
+"258,000",Villa,"Bosher, Muscat",527 Sq. M.,6
+"68,000",Apartment,"Muscat Hills, Muscat",91 Sq. M.,1
+"41,000",Villa,"Al Amarat, Muscat",600 Sq. M.,2
+"6,200",Residential Land,"Al Amarat, Muscat",600 Sq. M.,not available
+"85,000",Villa,"Al Sifah, Muscat",77 Sq. M.,1
+"111,700",Villa,"Al Maabilah, Muscat",194 Sq. M.,3
+"5,700",Residential Land,"Nakhl, Al Batinah",610 Sq. M.,not available
+"1,000",Villa,"Al Maabilah, Muscat",300 Sq. M.,6
+"10,500",Apartment,"Muscat - Other, Muscat",48 Sq. M.,not available
+"47,000",Apartment,"Al Khoud, Muscat",65 Sq. M.,1
+"525,000",Villa,"The Wave (Almouj), Muscat",534 Sq. M.,5
+"215,000",Apartment,"The Wave (Almouj), Muscat",131 Sq. M.,2
+"95,000",Apartment,"Muscat Hills, Muscat",109 Sq. M.,2
+"96,491",Apartment,"Al Sifah, Muscat",85 Sq. M.,2
+"65,000",Villa,"Salalah, Dhofar",330 Sq. M.,5
+"234,031",Villa,"Yiti, Muscat",160 Sq. M.,3
+"155,338",Villa,"Salalah, Dhofar",110 Sq. M.,2
+"13,000",Residential Land,"Liwa, Al Batinah",521 Sq. M.,not available
+"55,000",Apartment,"Al Sifah, Muscat",77 Sq. M.,1
+"220,000",Villa,"Al Khoud, Muscat",625 Sq. M.,7
+"470,000",Villa,"The Wave (Almouj), Muscat",588 Sq. M.,6
+"45,500",Villa,"Izki, Al Dakhiliya",175 Sq. M.,3
+"103,574",Apartment,"Qurum, Muscat",133 Sq. M.,3
+"279,000",Residential Land,"Qurum, Muscat","1,602 Sq. M.",not available
+"41,000",Apartment,"Bosher, Muscat",89 Sq. M.,2
+"80,000",Villa,"Al Maabilah, Muscat",440 Sq. M.,6
+"27,000",Villa,"Suwaiq, Al Batinah",600 Sq. M.,4
+"325,000",Villa,"Muscat Hills, Muscat",689 Sq. M.,4
+"169,500",Villa,"Qantab, Muscat",125 Sq. M.,3
+"23,500",Residential Land,"Al Seeb, Muscat",300 Sq. M.,not available
+"10,000",Residential Land,"Al Amarat, Muscat",707 Sq. M.,not available
+"2,500,000",Residential Land,"Ghala, Muscat","20,013 Sq. M.",not available
+"20,000",Residential Land,"Saham, Al Batinah",595 Sq. M.,not available
+"9,000",Residential Land,"Al Amarat, Muscat",600 Sq. M.,not available
+"45,000",Villa,"Barka, Al Batinah",180 Sq. M.,4
+"130,000",Villa,"Al Hail, Muscat",358 Sq. M.,7
+"39,000",Chalet,"Sumail, Al Dakhiliya",80 Sq. M.,1
+"95,000",Apartment,"Qantab, Muscat",77 Sq. M.,1
+"47,000",Apartment,"Salalah, Dhofar",65 Sq. M.,1
+"470,000",Villa,"Barr Al Jissah, Muscat",422 Sq. M.,5
+"400,000",Residential Land,"Al Khuwair, Muscat",800 Sq. M.,not available
+"83,852",Apartment,"Yiti, Muscat",58 Sq. M.,1
+"110,000",Villa,"Al Ghubrah, Muscat",280 Sq. M.,5
+"100,000",Apartment,"Al Seeb, Muscat",172 Sq. M.,2
+"42,000",Apartment,"Al Amarat, Muscat",107 Sq. M.,3
+"90,000",Villa,"Al Maabilah, Muscat",450 Sq. M.,6
+"165,000",Villa,"Azaiba, Muscat",400 Sq. M.,6
+"32,000",Apartment,"Al Maabilah, Muscat",123 Sq. M.,2
+"59,000",Apartment,"Al Sifah, Muscat",86 Sq. M.,1
+"292,200",Villa,"Al Seeb, Muscat",500 Sq. M.,5
+"5,500",Residential Land,"Masira, Al Sharqiya",600 Sq. M.,not available
+"94,570",Apartment,"Yiti, Muscat",59 Sq. M.,1
+"200,000",Villa,"Qurum, Muscat",320 Sq. M.,4
+"30,000",Residential Land,"Masira, Al Sharqiya",989 Sq. M.,not available
+"51,000",Residential Land,"Al Seeb, Muscat",600 Sq. M.,not available
+"11,500",Residential Land,"Al Masn'a, Al Batinah",600 Sq. M.,not available
+"58,000",Villa,"Al Maabilah, Muscat",300 Sq. M.,4
+"90,000",Villa,"Misfah, Muscat",294 Sq. M.,4
+"102,030",Apartment,"Yiti, Muscat",69 Sq. M.,1
+"180,000",Apartment,"Yiti, Muscat",109 Sq. M.,2
+"491,410",Villa,"Yiti, Muscat",384 Sq. M.,4
+"162,732",Villa,"Al Sifah, Muscat",157 Sq. M.,2
+"162,732",Villa,"Al Sifah, Muscat",175 Sq. M.,2
+"183,492",Villa,"Al Sifah, Muscat",183 Sq. M.,3
+"94,000",Villa,"Muscat - Other, Muscat",440 Sq. M.,5
+"535,000",Residential Land,"Madinat As Sultan Qaboos, Muscat","1,765 Sq. M.",not available
+"179,500",Apartment,"The Wave (Almouj), Muscat",133 Sq. M.,2
+"127,000",Villa,"Azaiba, Muscat",284 Sq. M.,4
+"385,000",Villa,"Qantab, Muscat",769 Sq. M.,3
+"600,000",Villa,"The Wave (Almouj), Muscat",547 Sq. M.,5
+"5,000",Residential Land,"Al Duqum, Al Wusta",647 Sq. M.,not available
+"50,000",Residential Land,"Saham, Al Batinah","1,488 Sq. M.",not available
+"356,000",Villa,"The Wave (Almouj), Muscat",413 Sq. M.,3
+"150,000",Apartment,"Al Sifah, Muscat",126 Sq. M.,2
+"30,000",Residential Land,"Al Qabil, Al Sharqiya",594 Sq. M.,not available
+"42,000",Residential Land,"Al Maabilah, Muscat",400 Sq. M.,not available
+"65,000",Apartment,"Muscat Hills, Muscat",91 Sq. M.,1
+"180,000",Villa,"Al Hail, Muscat",369 Sq. M.,7
+"514,755",Villa,"Yiti, Muscat",170 Sq. M.,4
+"45,000",Apartment,"Al Maabilah, Muscat",193 Sq. M.,4
+"19,000",Residential Land,"Barka, Al Batinah",600 Sq. M.,not available
+"200,000",Apartment,"Qantab, Muscat",200 Sq. M.,2
+"1,406,000",Villa,"The Wave (Almouj), Muscat",907 Sq. M.,6
+"130,000",Residential Land,"Al Maabilah, Muscat",797 Sq. M.,not available
+"10,000",Residential Land,"Barka, Al Batinah",611 Sq. M.,not available
+"125,000",Apartment,"Qantab, Muscat",106 Sq. M.,2
+"92,000",Villa,"Al Maabilah, Muscat",355 Sq. M.,4
+"50,510",Apartment,"Sultan Haitham City, Muscat",67 Sq. M.,1
+"3,000",Residential Land,"Suwaiq, Al Batinah",600 Sq. M.,not available
+"415,000",Villa,"The Wave (Almouj), Muscat",600 Sq. M.,6
+"95,000",Villa,"Salalah, Dhofar",600 Sq. M.,8
+"39,000",Apartment,"Bosher, Muscat",888 Sq. M.,2
+"95,000",Residential Land,"Al Rusayl, Muscat","1,000 Sq. M.",not available
+"55,000",Apartment,"Qurum, Muscat",120 Sq. M.,3
+"75,000",Apartment,"Madinat As Sultan Qaboos, Muscat",180 Sq. M.,2
+"50,000",Residential Land,"Bidbid, Al Dakhiliya",400 Sq. M.,not available
+"58,000",Apartment,"Al Sifah, Muscat",76 Sq. M.,1
+"20,000",Residential Land,"Al Buraimi, Al Buraimi",500 Sq. M.,not available
+"95,840",Apartment,"Al Maabilah, Muscat",138 Sq. M.,3
+"28,000",Residential Land,"Barka, Al Batinah",300 Sq. M.,not available
+"86,500",Villa,"Al Maabilah, Muscat",382 Sq. M.,8
+"5,600",Residential Land,"Barka, Al Batinah",611 Sq. M.,not available
+"338,552",Villa,"Salalah, Dhofar",243 Sq. M.,4
+"390,000",Villa,"Muscat Hills, Muscat",450 Sq. M.,4
+"180,000",Villa,"Bosher, Muscat",350 Sq. M.,4
+"302,000",Villa,"The Wave (Almouj), Muscat",269 Sq. M.,3
+"80,000",Apartment,"Muscat Hills, Muscat",105 Sq. M.,1
+"120,000",Villa,"Al Mawaleh, Muscat",370 Sq. M.,5
+"3,000",Residential Land,"Suwaiq, Al Batinah",600 Sq. M.,not available
+"68,000",Villa,"Salalah, Dhofar",76 Sq. M.,1
+"156,000",Apartment,"The Wave (Almouj), Muscat",131 Sq. M.,2
+"56,000",Residential Land,"Barka, Al Batinah",600 Sq. M.,not available
+"160,000",Villa,"Ansab, Muscat",300 Sq. M.,6
+"245,500",Apartment,"The Wave (Almouj), Muscat",145 Sq. M.,2
+"45,000",Villa,"Al Buraimi, Al Buraimi",600 Sq. M.,6
+"6,000",Residential Land,"Ibri, Al Dhahirah",738 Sq. M.,not available
+250,Residential Land,"Nizwa, Al Dakhiliya",500 Sq. M.,not available
+"335,825",Villa,"Salalah, Dhofar",234 Sq. M.,4
+"53,000",Residential Land,"Al Seeb, Muscat",608 Sq. M.,not available
+"60,000",Villa,"Saham, Al Batinah","3,074 Sq. M.",3
+"47,000",Apartment,"Bosher, Muscat",90 Sq. M.,3
+"15,000",Residential Land,"Sohar, Al Batinah",300 Sq. M.,not available
+"43,000",Villa,"Al Amarat, Muscat",224 Sq. M.,3
+"65,000",Residential Land,"Sohar, Al Batinah","1,500 Sq. M.",not available
+"9,500",Residential Land,"Al Mudaibi, Al Sharqiya",632 Sq. M.,not available
+"19,500",Residential Land,"Al Amarat, Muscat",600 Sq. M.,not available
+"79,990",Residential Land,"Salalah, Dhofar",600 Sq. M.,not available
+"2,600",Residential Land,"Ibri, Al Dhahirah",600 Sq. M.,not available
+"165,000",Villa,"Salalah, Dhofar",131 Sq. M.,2
+"15,000",Apartment,"Muscat - Other, Muscat",40 Sq. M.,1
+"23,500",Apartment,"Al Maabilah, Muscat",86 Sq. M.,2
+"30,000",Apartment,"Bosher, Muscat",70 Sq. M.,1
+"3,000,000",Residential Land,"Ghala, Muscat","16,300 Sq. M.",not available
+"10,500",Residential Land,"Saham, Al Batinah",600 Sq. M.,not available
+"326,456",Villa,"Yiti, Muscat",286 Sq. M.,4
+"269,290",Villa,"Yiti, Muscat",124 Sq. M.,3
+"9,500",Residential Land,"Izki, Al Dakhiliya",600 Sq. M.,not available
+"74,830",Apartment,"Al Maabilah, Muscat",109 Sq. M.,2
+"1,406,000",Villa,"The Wave (Almouj), Muscat",907 Sq. M.,6
+"229,766",Villa,"Yiti, Muscat",256 Sq. M.,3
+"15,000",Residential Land,"Sohar, Al Batinah",300 Sq. M.,not available
+"51,900",Residential Land,"Al Amarat, Muscat",800 Sq. M.,not available
+"30,000",Apartment,"Barka, Al Batinah",114 Sq. M.,2
+"250,000",Residential Land,"Saham, Al Batinah","1,883 Sq. M.",not available
+"250,000",Residential Land,"Al Buraimi, Al Buraimi",547 Sq. M.,not available
+"200,000",Residential Land,"Mahut, Al Wusta","1,883 Sq. M.",not available
+300,Residential Land,"Al Duqum, Al Wusta","30,000 Sq. M.",not available
+"167,000",Villa,"Salalah, Dhofar",121 Sq. M.,2
+"135,000",Apartment,"Madinat As Sultan Qaboos, Muscat",273 Sq. M.,3
+"450,000",Villa,"Qurum, Muscat",459 Sq. M.,5
+"4,200,000",Villa,"The Wave (Almouj), Muscat","1,845 Sq. M.",6
+"90,000",Residential Land,"Al Seeb, Muscat","1,304 Sq. M.",not available
+"115,000",Villa,"Ansab, Muscat",340 Sq. M.,5
+"35,000",Apartment,"Bosher, Muscat",76 Sq. M.,3
+"120,000",Residential Land,"Bosher, Muscat","2,098 Sq. M.",not available
+"55,000",Villa,"Salalah, Dhofar",170 Sq. M.,4
+"69,000",Residential Land,"Al Hail, Muscat",563 Sq. M.,not available
+"7,500",Residential Land,"Qurayyat, Muscat",600 Sq. M.,not available
+"120,000",Villa,"Al Maabilah, Muscat",410 Sq. M.,6
+"480,000",Villa,"The Wave (Almouj), Muscat",459 Sq. M.,6
+"175,000",Villa,"Sultan Haitham City, Muscat",333 Sq. M.,4
+"8,900",Residential Land,"Sohar, Al Batinah",600 Sq. M.,not available
+"573,300",Villa,"The Wave (Almouj), Muscat",549 Sq. M.,5
+"18,000",Residential Land,"Wadi Al Ma'awal, Al Batinah",618 Sq. M.,not available
+"21,000",Residential Land,"Shinas, Al Batinah","2,668 Sq. M.",not available
+"40,000",Villa,"Al Amarat, Muscat",400 Sq. M.,10
+"170,000",Chalet,"Al Sifah, Muscat",140 Sq. M.,2
+"85,000",Apartment,"Al Sifah, Muscat",120 Sq. M.,2
+"140,000",Apartment,"Al Sifah, Muscat",163 Sq. M.,2
+"180,000",Villa,"Al Mawaleh, Muscat",600 Sq. M.,6
+"625,000",Villa,"Al Mawaleh, Muscat",990 Sq. M.,12
+"36,000",Apartment,Dhofar,82 Sq. M.,2
+"635,000",Villa,"The Wave (Almouj), Muscat",667 Sq. M.,5
+"39,000",Apartment,"Bosher, Muscat",99 Sq. M.,2
+"4,410,000",Villa,"The Wave (Almouj), Muscat","1,845 Sq. M.",6
+"43,000",Residential Land,"Ruwi, Muscat",226 Sq. M.,not available
+"6,000",Residential Land,"Ibri, Al Dhahirah",738 Sq. M.,not available
+"78,000",Villa,"Al Maabilah, Muscat",337 Sq. M.,6
+"48,000",Residential Land,"Nakhl, Al Batinah",500 Sq. M.,not available
+"19,000",Residential Land,"Sur, Al Sharqiya",630 Sq. M.,not available
+"15,000",Residential Land,"Sohar, Al Batinah",300 Sq. M.,not available
+"59,400",Villa,"Sohar, Al Batinah",322 Sq. M.,4
+100,Residential Land,"Masira, Al Sharqiya",660 Sq. M.,not available
+300,Residential Land,"Jalan Bani Buhassan, Al Sharqiya","1,000 Sq. M.",not available
+"35,336",Apartment,"Ghala, Muscat",88 Sq. M.,1
+"4,000",Residential Land,"Suwaiq, Al Batinah",600 Sq. M.,not available
+"28,500",Residential Land,"Barka, Al Batinah","1,200 Sq. M.",not available
+"190,000",Apartment,"The Wave (Almouj), Muscat",150 Sq. M.,2
+"245,000",Apartment,"The Wave (Almouj), Muscat",223 Sq. M.,2
+"10,950",Apartment,"Al Seeb, Muscat",48 Sq. M.,1
+"1,100,000",Villa,"Qantab, Muscat",750 Sq. M.,5
+"36,000",Apartment,"Bosher, Muscat",112 Sq. M.,3
+"370,000",Villa,"The Wave (Almouj), Muscat",509 Sq. M.,6
+"70,000",Villa,"Ibra, Al Sharqiya",580 Sq. M.,5
+"1,000,000",Residential Land,"Al Amarat, Muscat",600 Sq. M.,not available
+"70,000",Apartment,"Muscat Hills, Muscat",100 Sq. M.,2
+"170,000",Villa,"Yiti, Muscat",125 Sq. M.,3
+"60,000",Apartment,"Muscat Hills, Muscat",71 Sq. M.,1
+"5,000",Residential Land,"Saham, Al Batinah",600 Sq. M.,not available
+"6,000",Residential Land,"Al Masn'a, Al Batinah",613 Sq. M.,not available
+"338,956",Villa,"Salalah, Dhofar",243 Sq. M.,4
+"370,000",Villa,"Al Mawaleh, Muscat",711 Sq. M.,12
+"73,000",Apartment,"Al Sifah, Muscat",90 Sq. M.,1
+"1,800,000",Villa,"The Wave (Almouj), Muscat",933 Sq. M.,6
+"110,000",Apartment,"Al Sifah, Muscat",121 Sq. M.,2
+"460,000",Residential Land,"Al Hail, Muscat",710 Sq. M.,not available
+100,Residential Land,"Bidiya, Al Sharqiya",450 Sq. M.,not available
+"7,500",Residential Land,"Ibra, Al Sharqiya",962 Sq. M.,not available
+"67,000",Villa,"Al Maabilah, Muscat",338 Sq. M.,4
+"105,000",Residential Land,"Al Ghubrah, Muscat",566 Sq. M.,not available
+"385,380",Villa,"Yiti, Muscat",128 Sq. M.,3
+"33,900",Residential Land,"Al Maabilah, Muscat",600 Sq. M.,not available
+"70,000",Chalet,"Al Amarat, Muscat",600 Sq. M.,7
+"1,490,000",Villa,"The Wave (Almouj), Muscat",933 Sq. M.,6
+"45,000",Apartment,"Qurum, Muscat",103 Sq. M.,2
+"70,000",Villa,"Barka, Al Batinah",320 Sq. M.,5
+"56,000",Apartment,"Al Sifah, Muscat",77 Sq. M.,1
+"456,000",Villa,"Barr Al Jissah, Muscat",498 Sq. M.,4
+"165,000",Villa,"Al Hail, Muscat",857 Sq. M.,3
+"950,000",Villa,"Qantab, Muscat","1,442 Sq. M.",5
+"23,000",Residential Land,"Al 'Awabi, Al Batinah",287 Sq. M.,not available
+"275,000",Residential Land,"Barka, Al Batinah","10,017 Sq. M.",not available
+"140,000",Villa,"Azaiba, Muscat",300 Sq. M.,5
+"41,000",Apartment,"Al Khoud, Muscat",56 Sq. M.,not available
+"220,000",Villa,"Al Hail, Muscat",900 Sq. M.,5
+"1,506,534",Villa,"Yiti, Muscat",487 Sq. M.,5
+"274,596",Villa,"Yiti, Muscat",260 Sq. M.,4
+"70,000",Residential Land,"Al Masn'a, Al Batinah","11,202 Sq. M.",not available
+"125,000",Apartment,"The Wave (Almouj), Muscat",130 Sq. M.,2
+"49,900",Villa,"Yunqul, Al Dhahirah",517 Sq. M.,6
+"9,000",Residential Land,"Qurayyat, Muscat",600 Sq. M.,not available
+"950,000",Villa,"Qantab, Muscat",750 Sq. M.,5
+"187,500",Apartment,"Qantab, Muscat",175 Sq. M.,3
+"178,500",Apartment,"Qantab, Muscat",170 Sq. M.,3
+"185,000",Apartment,"Qantab, Muscat",165 Sq. M.,3
+"95,000",Residential Land,"Al Khoud, Muscat",615 Sq. M.,not available
+"950,000",Villa,"The Wave (Almouj), Muscat",907 Sq. M.,6
+"670,000",Villa,"The Wave (Almouj), Muscat",455 Sq. M.,5
+"200,000",Residential Land,"Al Masn'a, Al Batinah","27,051 Sq. M.",not available
+500,Residential Land,"Ghala, Muscat","2,934 Sq. M.",not available
+"6,000",Residential Land,"Al Amarat, Muscat",812 Sq. M.,not available
+"175,000",Villa,"Al Maabilah, Muscat",333 Sq. M.,4
+"281,101",Villa,"Yiti, Muscat",257 Sq. M.,4
+"241,255",Villa,"Yiti, Muscat",256 Sq. M.,4
+"52,500",Apartment,"Qurum, Muscat",100 Sq. M.,2
+"7,200",Residential Land,"Al Masn'a, Al Batinah",602 Sq. M.,not available
+"310,000",Villa,"The Wave (Almouj), Muscat",247 Sq. M.,3
+"77,015",Apartment,"Muscat Hills, Muscat",108 Sq. M.,1
+"33,000",Residential Land,"Sohar, Al Batinah","1,234 Sq. M.",not available
+"25,000",Residential Land,"Sumail, Al Dakhiliya",618 Sq. M.,not available
+"175,000",Villa,"Al Mawaleh, Muscat",775 Sq. M.,4
+"20,000",Villa,"Barka, Al Batinah",180 Sq. M.,3
+"137,000",Villa,"Al Khoud, Muscat",420 Sq. M.,4
+"230,000",Villa,"Al Khoud, Muscat",636 Sq. M.,7
+"63,000",Villa,"Al Maabilah, Muscat",300 Sq. M.,5
+"78,000",Apartment,"Muscat Hills, Muscat",110 Sq. M.,2
+"20,000",Residential Land,"Al Amarat, Muscat",550 Sq. M.,not available
+"187,500",Apartment,"Qantab, Muscat",171 Sq. M.,3
+"7,500",Residential Land,"Sumail, Al Dakhiliya",600 Sq. M.,not available
+"11,000",Residential Land,"Izki, Al Dakhiliya",600 Sq. M.,not available
+"167,680",Apartment,"Barr Al Jissah, Muscat",43 Sq. M.,1
+"71,917",Apartment,"Muscat Hills, Muscat",108 Sq. M.,1
+"160,000",Apartment,"The Wave (Almouj), Muscat",127 Sq. M.,2
+"95,000",Residential Land,"Al Rusayl, Muscat","1,000 Sq. M.",not available
+"5,200",Residential Land,"Ibri, Al Dhahirah","1,200 Sq. M.",not available
+"455,617",Villa,"Yiti, Muscat",506 Sq. M.,4
+"1,215,385",Villa,"Yiti, Muscat",315 Sq. M.,4
+"330,000",Villa,"The Wave (Almouj), Muscat",256 Sq. M.,3
+"14,500",Residential Land,"Barka, Al Batinah",611 Sq. M.,not available
+"71,000",Villa,"Al Maabilah, Muscat",300 Sq. M.,5
+"85,000",Residential Land,"Ibri, Al Dhahirah","1,200 Sq. M.",not available
+"70,000",Apartment,"Al Sifah, Muscat",91 Sq. M.,1
+"83,461",Apartment,"Muscat Hills, Muscat",132 Sq. M.,3
+"225,000",Apartment,"The Wave (Almouj), Muscat",100 Sq. M.,2
+"165,000",Villa,"Al Hail, Muscat",859 Sq. M.,4
+"62,000",Villa,"Barka, Al Batinah",400 Sq. M.,7
+"54,000",Apartment,"Salalah, Dhofar",53 Sq. M.,1
+"49,000",Apartment,"Salalah, Dhofar",60 Sq. M.,1
+"236,643",Apartment,"Al Khoud, Muscat",333 Sq. M.,4
+"76,000",Apartment,"Muscat Hills, Muscat",118 Sq. M.,2
+"44,000",Apartment,"Al Sifah, Muscat",60 Sq. M.,1
+"370,000",Villa,"Qurum, Muscat",800 Sq. M.,9
+"33,000",Residential Land,"Sohar, Al Batinah","1,234 Sq. M.",not available
+"11,000",Residential Land,"Nizwa, Al Dakhiliya",732 Sq. M.,not available
+"25,500",Residential Land,"Suwaiq, Al Batinah","2,270 Sq. M.",not available
+"80,000",Apartment,"Qantab, Muscat",86 Sq. M.,1
+"133,000",Apartment,"Qantab, Muscat",138 Sq. M.,2
+"7,700",Residential Land,"Al Buraimi, Al Buraimi",631 Sq. M.,not available
+"18,000",Residential Land,"Nizwa, Al Dakhiliya",750 Sq. M.,not available
+"220,000",Apartment,"The Wave (Almouj), Muscat",122 Sq. M.,2
+"82,000",Apartment,"The Wave (Almouj), Muscat",61 Sq. M.,1
+"1,010",Villa,"Bosher, Muscat",600 Sq. M.,8
+"10,000",Residential Land,"Ibri, Al Dhahirah",100 Sq. M.,not available
+"50,000",Apartment,"Al Maabilah, Muscat",170 Sq. M.,4
+"6,000",Residential Land,"Bahla, Al Dakhiliya",600 Sq. M.,not available
+"100,000",Apartment,"Salalah, Dhofar",89 Sq. M.,1
+"50,070",Apartment,"Al Maabilah, Muscat",70 Sq. M.,1
+"7,300",Residential Land,"Al Rustaq, Al Batinah",600 Sq. M.,not available
+"60,000",Chalet,"Barka, Al Batinah",135 Sq. M.,2
+"5,500",Residential Land,"Bidbid, Al Dakhiliya",675 Sq. M.,not available
+"220,000",Residential Land,"Al Amarat, Muscat","2,900 Sq. M.",not available
+"199,000",Apartment,"Qantab, Muscat",171 Sq. M.,3
+"32,000",Villa,"Saham, Al Batinah",200 Sq. M.,4
+"19,900",Apartment,"Ruwi, Muscat",85 Sq. M.,2
+"250,000",Residential Land,"Al Seeb, Muscat","9,629 Sq. M.",not available
+"750,000",Villa,"The Wave (Almouj), Muscat",823 Sq. M.,7
+"212,000",Apartment,Muscat,212 Sq. M.,3
+"99,750",Apartment,"The Wave (Almouj), Muscat",107 Sq. M.,1
+"28,000",Apartment,"Al Ghubrah, Muscat",79 Sq. M.,2
+"9,000",Residential Land,"Ibri, Al Dhahirah",674 Sq. M.,not available
+"135,000",Apartment,"Qantab, Muscat",133 Sq. M.,2
+"42,000",Chalet,"Sumail, Al Dakhiliya",170 Sq. M.,2
+"48,000",Apartment,"Qurum, Muscat",100 Sq. M.,2
+"151,000",Villa,"Bosher, Muscat",235 Sq. M.,3
+"13,000",Residential Land,"Ibra, Al Sharqiya",630 Sq. M.,not available
+"131,500",Apartment,"Qantab, Muscat",133 Sq. M.,2
+"89,000",Apartment,"Qantab, Muscat",84 Sq. M.,1
+"72,000",Villa,"Salalah, Dhofar",78 Sq. M.,1
+"90,000",Residential Land,"Al Mawaleh, Muscat",600 Sq. M.,not available
+"66,000",Villa,"Al Amarat, Muscat",308 Sq. M.,5
+"580,000",Villa,"The Wave (Almouj), Muscat",427 Sq. M.,5
+"28,000",Residential Land,"Suwaiq, Al Batinah","1,191 Sq. M.",not available
+"180,000",Apartment,"The Wave (Almouj), Muscat",207 Sq. M.,3
+"8,000",Residential Land,"Saham, Al Batinah",600 Sq. M.,not available
+"48,000",Residential Land,"Al Mudaibi, Al Sharqiya","15,000 Sq. M.",not available
+"51,500",Apartment,"Bosher, Muscat",68 Sq. M.,1
+"85,000",Villa,"Al Amarat, Muscat",330 Sq. M.,5
+"37,500",Villa,"Al Masn'a, Al Batinah",217 Sq. M.,3
+"450,000",Residential Land,"Muscat - Other, Muscat",906 Sq. M.,not available
+"95,000",Residential Land,"Al Hail, Muscat",770 Sq. M.,not available
+"59,000",Residential Land,"Al Maabilah, Muscat",640 Sq. M.,not available
+"24,600",Residential Land,"Barka, Al Batinah",630 Sq. M.,not available
+"24,000",Apartment,"Al Amarat, Muscat",104 Sq. M.,3
+"75,000",Apartment,"Muscat Hills, Muscat",80 Sq. M.,2
+"133,000",Apartment,"Qantab, Muscat",133 Sq. M.,2
+"3,400",Residential Land,"Al Rustaq, Al Batinah",500 Sq. M.,not available
+"40,000",Apartment,"Salalah, Dhofar",50 Sq. M.,not available
+"8,500",Residential Land,"Nizwa, Al Dakhiliya",900 Sq. M.,not available
+"98,000",Residential Land,"Azaiba, Muscat",440 Sq. M.,not available
+"66,000",Villa,"Al Amarat, Muscat",255 Sq. M.,3
+"2,500",Residential Land,"Al Khaboura, Al Batinah",600 Sq. M.,not available
+"122,000",Apartment,"Qantab, Muscat",128 Sq. M.,2
+"5,000",Residential Land,"Al Sinainah, Al Buraimi",969 Sq. M.,not available
+"195,000",Villa,"The Wave (Almouj), Muscat",202 Sq. M.,3
+"19,000",Residential Land,"Barka, Al Batinah",600 Sq. M.,not available
+"233,300",Villa,"Al Maabilah, Muscat",600 Sq. M.,5
+"17,000",Villa,"Mirbat, Dhofar",450 Sq. M.,2
+"87,000",Villa,"Barka, Al Batinah",653 Sq. M.,6
+"20,000",Residential Land,"Sumail, Al Dakhiliya",600 Sq. M.,not available
+"78,870",Apartment,"Al Khoud, Muscat",102 Sq. M.,1
+"72,000",Villa,"Al Sifah, Muscat",90 Sq. M.,1
+"265,000",Villa,"Al Sifah, Muscat",129 Sq. M.,2
+"37,000",Residential Land,"Al Rustaq, Al Batinah",603 Sq. M.,not available
+"13,000",Residential Land,"Al Rustaq, Al Batinah",600 Sq. M.,not available
+"250,000",Apartment,"The Wave (Almouj), Muscat",150 Sq. M.,3
+"23,000",Residential Land,"Sohar, Al Batinah",300 Sq. M.,not available
+135,Residential Land,"Al Mawaleh, Muscat",605 Sq. M.,not available
+"9,000",Residential Land,"Saham, Al Batinah",602 Sq. M.,not available
+"28,000",Residential Land,"Al Amarat, Muscat",910 Sq. M.,not available
+"95,000",Residential Land,"Saham, Al Batinah","1,437 Sq. M.",not available
+"100,000",Apartment,"The Wave (Almouj), Muscat",87 Sq. M.,1
+"53,000",Villa,"Al Wadi Al Kabir, Muscat",300 Sq. M.,4
+"1,000",Villa,"Saham, Al Batinah","1,000 Sq. M.",1
+"43,000",Residential Land,"Al Amarat, Muscat",500 Sq. M.,not available
+"650,000",Residential Land,"Al Mawaleh, Muscat","1,300 Sq. M.",not available
+"20,000",Residential Land,"Ibri, Al Dhahirah",799 Sq. M.,not available
+"2,000",Residential Land,"Al Seeb, Muscat","5,175 Sq. M.",not available
+"170,000",Residential Land,"Bosher, Muscat",783 Sq. M.,not available
+"48,000",Villa,"Sumail, Al Dakhiliya",240 Sq. M.,5
+"62,000",Apartment,"Muscat Hills, Muscat",65 Sq. M.,1
+"165,000",Apartment,"Qantab, Muscat",142 Sq. M.,2
+"500,000",Villa,"Barr Al Jissah, Muscat",389 Sq. M.,4
+"13,000",Residential Land,"Dima and Al Taaiyin, Al Sharqiya",757 Sq. M.,not available
+"49,000",Residential Land,"Saham, Al Batinah","1,007 Sq. M.",not available
+"16,000",Residential Land,"Qurayyat, Muscat",600 Sq. M.,not available
+"5,000",Residential Land,"Al Khaboura, Al Batinah",630 Sq. M.,not available
+"50,510",Apartment,"Sultan Haitham City, Muscat",67 Sq. M.,1
+"24,000",Residential Land,"Al Amarat, Muscat","1,000 Sq. M.",not available
+"90,000",Residential Land,"Al Khoud, Muscat",600 Sq. M.,not available
+"24,000",Residential Land,"Ibri, Al Dhahirah","1,500 Sq. M.",not available
+"140,000",Chalet,"Qurayyat, Muscat","2,110 Sq. M.",3
+"47,300",Apartment,"Al Khoud, Muscat",55 Sq. M.,1
+"5,000",Residential Land,"Al Amarat, Muscat",600 Sq. M.,not available
+"20,000",Residential Land,"Saham, Al Batinah",791 Sq. M.,not available
+"9,500",Residential Land,"Shinas, Al Batinah",600 Sq. M.,not available
+"175,000",Apartment,"The Wave (Almouj), Muscat",224 Sq. M.,2
+"90,000",Apartment,"Al Khuwair, Muscat",155 Sq. M.,2
+"18,000",Residential Land,"Dhank, Al Dhahirah",480 Sq. M.,not available
+"75,000",Apartment,"Madinat As Sultan Qaboos, Muscat",153 Sq. M.,3
+"52,000",Villa,"Barka, Al Batinah",260 Sq. M.,4
+"160,000",Villa,"Al Mawaleh, Muscat",782 Sq. M.,11
+"170,000",Villa,"Al Mawaleh, Muscat",500 Sq. M.,8
+"11,200",Residential Land,"Al Sifah, Muscat",600 Sq. M.,not available
+"23,000",Residential Land,"Al Khaboura, Al Batinah","2,000 Sq. M.",not available
+"183,492",Villa,"Yiti, Muscat",183 Sq. M.,3
+"30,000",Residential Land,"Bidbid, Al Dakhiliya",600 Sq. M.,not available
+"456,000",Villa,"Qantab, Muscat",498 Sq. M.,4
+"38,000",Villa,"Al Amarat, Muscat",140 Sq. M.,3
+"25,500",Residential Land,"Suwaiq, Al Batinah","1,469 Sq. M.",not available
+"95,000",Apartment,"Muscat Hills, Muscat",142 Sq. M.,2
+"50,000",Residential Land,"Al Maabilah, Muscat",800 Sq. M.,not available
+"212,191",Villa,"Salalah, Dhofar",780 Sq. M.,2
+"1,406,000",Villa,"The Wave (Almouj), Muscat","1,000 Sq. M.",6
+"41,500",Residential Land,"Barka, Al Batinah",772 Sq. M.,not available
+"33,000",Villa,"Al Masn'a, Al Batinah",156 Sq. M.,3
+"15,000",Residential Land,"Barka, Al Batinah",664 Sq. M.,not available
+"76,000",Villa,"Al Maabilah, Muscat",300 Sq. M.,6
+115,Residential Land,"Al Hail, Muscat",735 Sq. M.,not available
+"90,000",Villa,"Barka, Al Batinah",700 Sq. M.,4
+"170,869",Villa,"Al Sifah, Muscat",157 Sq. M.,2
+"133,000",Apartment,"Qantab, Muscat",133 Sq. M.,2
+"59,494",Apartment,"Al Sifah, Muscat",51 Sq. M.,1
+"197,736",Villa,"Al Sifah, Muscat",100 Sq. M.,2
+"269,290",Villa,"Yiti, Muscat",204 Sq. M.,3
+"1,406,000",Villa,"The Wave (Almouj), Muscat",907 Sq. M.,6
+"80,000",Villa,"Al Maabilah, Muscat",396 Sq. M.,6
+"67,000",Villa,"Al Amarat, Muscat",416 Sq. M.,7
+"59,500",Villa,"Sumail, Al Dakhiliya",280 Sq. M.,3
+"38,000",Residential Land,"Barka, Al Batinah","1,262 Sq. M.",not available
+"10,300",Residential Land,"Nizwa, Al Dakhiliya",600 Sq. M.,not available
+"31,500",Residential Land,"Barka, Al Batinah",600 Sq. M.,not available
+"4,800",Residential Land,"Izki, Al Dakhiliya",600 Sq. M.,not available
+"39,999",Villa,"Al Qabil, Al Sharqiya",223 Sq. M.,5
+"12,000",Residential Land,"Qurayyat, Muscat",603 Sq. M.,not available
+"9,000",Residential Land,"Nizwa, Al Dakhiliya",716 Sq. M.,not available
+"89,118",Apartment,"Yiti, Muscat",50 Sq. M.,1
+"98,000",Villa,"Al Mawaleh, Muscat",300 Sq. M.,4
+"15,000",Residential Land,"Mahut, Al Wusta",846 Sq. M.,not available
+"46,344",Apartment,"Al Sifah, Muscat",38 Sq. M.,1
+"9,000",Residential Land,"Thumrait, Dhofar","1,437 Sq. M.",not available
+"17,000",Residential Land,"Al Amarat, Muscat",600 Sq. M.,not available
+"4,000",Residential Land,"Sohar, Al Batinah",600 Sq. M.,not available
+"22,000",Villa,"Barka, Al Batinah",400 Sq. M.,3
+"2,900",Residential Land,"Al Buraimi, Al Buraimi",633 Sq. M.,not available
+"135,000",Apartment,"The Wave (Almouj), Muscat",105 Sq. M.,1
+"143,976",Apartment,"Muscat Hills, Muscat",110 Sq. M.,2
+"105,000",Apartment,"Muscat Hills, Muscat",71 Sq. M.,1
+"73,000",Apartment,"Al Khoud, Muscat",100 Sq. M.,2
+"89,500",Apartment,"Qantab, Muscat",82 Sq. M.,1
+"48,600",Apartment,"Al Maabilah, Muscat",70 Sq. M.,1
+"83,000",Villa,"Al Bustan, Muscat",236 Sq. M.,4
+"85,000",Villa,"Mutrah, Muscat",354 Sq. M.,3
+"220,000",Villa,"Al Khoud, Muscat",678 Sq. M.,6
+"77,000",Villa,"Al Amarat, Muscat",313 Sq. M.,6
+"10,500",Residential Land,"Barka, Al Batinah",612 Sq. M.,not available
+"3,500",Residential Land,"Al Rustaq, Al Batinah",500 Sq. M.,not available
+"125,000",Apartment,"Muscat Hills, Muscat",172 Sq. M.,2
+"32,000",Apartment,"Al Hail, Muscat",90 Sq. M.,1
+"81,180",Apartment,"Muscat Hills, Muscat",123 Sq. M.,2
+"63,000",Apartment,"Al Sifah, Muscat",77 Sq. M.,1
+"8,500",Residential Land,"Nakhl, Al Batinah",617 Sq. M.,not available
+"53,000",Apartment,"Qurum, Muscat",102 Sq. M.,2
+"525,000",Villa,"Al Khoud, Muscat","1,117 Sq. M.",7
+"89,000",Apartment,"The Wave (Almouj), Muscat",88 Sq. M.,1
+"12,000",Residential Land,"Sumail, Al Dakhiliya",658 Sq. M.,not available
+"95,000",Villa,"Al Khuwair, Muscat",462 Sq. M.,6
+"8,500",Residential Land,"Bahla, Al Dakhiliya","1,023 Sq. M.",not available
+"181,500",Villa,"Bosher, Muscat",235 Sq. M.,3
+"80,000",Apartment,"Ghala, Muscat",139 Sq. M.,2
+"145,000",Apartment,"The Wave (Almouj), Muscat",127 Sq. M.,2
+"105,000",Villa,"Salalah, Dhofar",648 Sq. M.,7
+"29,500",Apartment,"Al Hail, Muscat",65 Sq. M.,1
+"99,750",Apartment,"The Wave (Almouj), Muscat",107 Sq. M.,1
+"50,000",Residential Land,"Misfah, Muscat",600 Sq. M.,not available
+"70,000",Apartment,"Muscat Hills, Muscat",98 Sq. M.,2
+"52,000",Apartment,"Taqah, Dhofar",64 Sq. M.,1
+"77,000",Villa,"Al Maabilah, Muscat",350 Sq. M.,4
+"46,000",Apartment,"Salalah, Dhofar",61 Sq. M.,1
+"56,000",Residential Land,"Bidbid, Al Dakhiliya","1,459 Sq. M.",not available
+"75,900",Apartment,"Muscat Hills, Muscat",115 Sq. M.,1
+"120,000",Residential Land,"Al Duqum, Al Wusta",500 Sq. M.,not available
+"135,000",Villa,"Al Khoud, Muscat",476 Sq. M.,6
+"11,111",Residential Land,"Nizwa, Al Dakhiliya",640 Sq. M.,not available
+"75,000",Villa,"Al Maabilah, Muscat",350 Sq. M.,4
+"100,000",Residential Land,"Al Mawaleh, Muscat",680 Sq. M.,not available
+"40,000",Residential Land,"Nizwa, Al Dakhiliya",600 Sq. M.,not available
+"40,000",Villa,"Sohar, Al Batinah",177 Sq. M.,3
+"26,500",Apartment,"Al Khoud, Muscat",89 Sq. M.,2
+"195,000",Residential Land,"Al Khoud, Muscat","1,050 Sq. M.",not available
+"47,000",Residential Land,"Al Amarat, Muscat",805 Sq. M.,not available
+"74,000",Apartment,"Qantab, Muscat",68 Sq. M.,not available
+"25,000",Residential Land,"Al Buraimi, Al Buraimi",390 Sq. M.,not available
+"7,400",Residential Land,"Sohar, Al Batinah",600 Sq. M.,not available
+"7,800",Residential Land,"Mirbat, Dhofar",200 Sq. M.,not available
+"15,000",Residential Land,"Barka, Al Batinah",605 Sq. M.,not available
+"180,000",Villa,"Yiti, Muscat",125 Sq. M.,3
+"450,000",Villa,"Muscat Hills, Muscat",450 Sq. M.,5
+"85,000",Villa,"Barka, Al Batinah",600 Sq. M.,4
+"54,000",Apartment,"Taqah, Dhofar",65 Sq. M.,1
+"18,500",Residential Land,"Al Masn'a, Al Batinah",470 Sq. M.,not available
+"103,000",Apartment,"The Wave (Almouj), Muscat",104 Sq. M.,1
+"180,000",Villa,"Al Amarat, Muscat",716 Sq. M.,7
+"67,000",Apartment,"Qurum, Muscat",116 Sq. M.,2
+"49,000",Apartment,"Qurum, Muscat",88 Sq. M.,1
+"10,800",Residential Land,"Suwaiq, Al Batinah",600 Sq. M.,not available
+"15,000",Residential Land,"Nizwa, Al Dakhiliya",600 Sq. M.,not available
+"10,000",Residential Land,"Barka, Al Batinah",600 Sq. M.,not available
+"5,000",Residential Land,"Ibri, Al Dhahirah",669 Sq. M.,not available
+"455,000",Villa,"The Wave (Almouj), Muscat",525 Sq. M.,3
+"22,000",Residential Land,"Al Duqum, Al Wusta",648 Sq. M.,not available
+"18,000",Residential Land,"Al Amarat, Muscat",600 Sq. M.,not available
+"68,137",Apartment,"Ghala, Muscat",100 Sq. M.,1
+"32,500",Apartment,"Al Duqum, Al Wusta",66 Sq. M.,1
+"22,000",Residential Land,"Sohar, Al Batinah",300 Sq. M.,not available
+"195,000",Residential Land,"Bosher, Muscat",975 Sq. M.,not available
+"77,000",Residential Land,"Bosher, Muscat",600 Sq. M.,not available
+"40,000",Residential Land,"Mutrah, Muscat","1,000 Sq. M.",not available
+"270,000",Villa,"Al Seeb, Muscat",745 Sq. M.,6
+"30,000",Residential Land,"Al Khaboura, Al Batinah","4,250 Sq. M.",not available
+"110,000",Residential Land,"Sumail, Al Dakhiliya","5,370 Sq. M.",not available
+"19,500",Residential Land,"Al Masn'a, Al Batinah",288 Sq. M.,not available
+"47,000",Apartment,"Bosher, Muscat",100 Sq. M.,2
+"24,000",Residential Land,"Ibri, Al Dhahirah",300 Sq. M.,not available
+"79,500",Residential Land,"Barka, Al Batinah","1,289 Sq. M.",not available
+"77,377",Apartment,"Ghala, Muscat",122 Sq. M.,2
+"18,000",Chalet,"Adam, Al Dakhiliya",750 Sq. M.,3
+"25,000",Residential Land,"Al Amarat, Muscat",398 Sq. M.,not available
+"25,000",Apartment,"Al Duqum, Al Wusta",35 Sq. M.,1
+"241,000",Villa,"Muscat Hills, Muscat",338 Sq. M.,4
+"30,000",Villa,"Suwaiq, Al Batinah",220 Sq. M.,5
+"215,000",Apartment,"The Wave (Almouj), Muscat",145 Sq. M.,2
+"410,000",Villa,"Muscat Hills, Muscat",376 Sq. M.,5
+"34,000",Residential Land,"Sumail, Al Dakhiliya","1,220 Sq. M.",not available
+"88,000",Villa,"Barka, Al Batinah",680 Sq. M.,7
+"195,000",Villa,"The Wave (Almouj), Muscat",175 Sq. M.,3
+"77,015",Apartment,"Muscat Hills, Muscat",108 Sq. M.,1
+"14,000",Residential Land,"Shinas, Al Batinah",768 Sq. M.,not available
+"300,000",Villa,"The Wave (Almouj), Muscat",247 Sq. M.,3
+"125,000",Apartment,"Al Sifah, Muscat",129 Sq. M.,2
+"76,000",Villa,"Al Maabilah, Muscat",350 Sq. M.,4
+"45,000",Apartment,"Al Sifah, Muscat",52 Sq. M.,1
+"14,200",Residential Land,"Al Rustaq, Al Batinah",600 Sq. M.,not available
+"1,406,000",Villa,"The Wave (Almouj), Muscat","1,001 Sq. M.",6
+"15,000",Residential Land,"Al Mawaleh, Muscat",841 Sq. M.,not available
+"37,000",Villa,"Muscat - Other, Muscat",250 Sq. M.,5
+"79,000",Villa,"Barka, Al Batinah",517 Sq. M.,6
+"180,000",Villa,"Al Khoud, Muscat",412 Sq. M.,5
+"70,000",Villa,"Al Maabilah, Muscat",294 Sq. M.,3
+"7,000",Residential Land,"Al Masn'a, Al Batinah",600 Sq. M.,not available
+"45,000",Apartment,"Al Duqum, Al Wusta",96 Sq. M.,2
+"264,216",Villa,"Salalah, Dhofar",970 Sq. M.,3
+"53,500",Apartment,"Al Sifah, Muscat",64 Sq. M.,1
+"53,000",Apartment,"Al Sifah, Muscat",64 Sq. M.,1
+"29,000",Apartment,"Al Duqum, Al Wusta",48 Sq. M.,1
+"83,461",Apartment,"Muscat Hills, Muscat",132 Sq. M.,2
+"66,147",Apartment,"Muscat Hills, Muscat",100 Sq. M.,1
+"63,281",Apartment,"Muscat Hills, Muscat",70 Sq. M.,1
+"15,000",Residential Land,"Barka, Al Batinah",600 Sq. M.,not available
+"1,000,000",Residential Land,"Ghala, Muscat","4,778 Sq. M.",not available
+"25,000",Residential Land,"Sur, Al Sharqiya",500 Sq. M.,not available
+"16,000",Residential Land,"Al Masn'a, Al Batinah",585 Sq. M.,not available
+"89,000",Villa,"Al Maabilah, Muscat",365 Sq. M.,5
+"77,000",Residential Land,"Sur, Al Sharqiya",750 Sq. M.,not available
+"1,406,000",Villa,"The Wave (Almouj), Muscat","1,003 Sq. M.",6
+"145,000",Apartment,"Al Sifah, Muscat",162 Sq. M.,3
+"17,500",Residential Land,"Sur, Al Sharqiya",649 Sq. M.,not available
+"8,000",Residential Land,"Shinas, Al Batinah",600 Sq. M.,not available
+"3,850",Residential Land,"Sohar, Al Batinah",600 Sq. M.,not available
+460,Residential Land,"Misfah, Muscat","80,000 Sq. M.",not available
+"10,000",Residential Land,"Al Amarat, Muscat",627 Sq. M.,not available
+"7,000",Residential Land,"Suwaiq, Al Batinah",600 Sq. M.,not available
+"15,000",Residential Land,"Saham, Al Batinah",700 Sq. M.,not available
+"950,000",Apartment,"The Wave (Almouj), Muscat",755 Sq. M.,4
+"140,000",Villa,"Al Hail, Muscat",911 Sq. M.,4
+"65,000",Villa,"Al Seeb, Muscat",284 Sq. M.,4
+"17,000",Apartment,"Salalah, Dhofar",50 Sq. M.,1
+"15,000",Residential Land,"Suwaiq, Al Batinah",611 Sq. M.,not available
+"71,000",Villa,"Al Maabilah, Muscat",360 Sq. M.,5
+"5,500",Residential Land,"Al Qabil, Al Sharqiya","1,108 Sq. M.",not available
+"49,000",Villa,"Barka, Al Batinah",237 Sq. M.,3
+"45,000",Villa,"Barka, Al Batinah",313 Sq. M.,4
+"170,000",Villa,"Al Khuwair, Muscat",376 Sq. M.,6
+"50,000",Villa,"Shinas, Al Batinah",270 Sq. M.,5
+110,Residential Land,"Al Maabilah, Muscat",400 Sq. M.,not available
+"130,000",Villa,"Al Khuwair, Muscat",440 Sq. M.,7
+"90,000",Villa,"Misfah, Muscat",312 Sq. M.,5
+"60,000",Residential Land,"Al Maabilah, Muscat",600 Sq. M.,not available
+"95,000",Villa,"Al Khuwair, Muscat",336 Sq. M.,5
+"1,111,111",Apartment,"The Wave (Almouj), Muscat",10 Sq. M.,1
+"200,000",Residential Land,"Al Masn'a, Al Batinah","27,051 Sq. M.",not available
+"20,000",Residential Land,"Barka, Al Batinah",600 Sq. M.,not available
+"9,800",Residential Land,"Al Duqum, Al Wusta",600 Sq. M.,not available
+"9,800",Residential Land,"Al Duqum, Al Wusta",600 Sq. M.,not available
+"25,500",Residential Land,"Al Rusayl, Muscat",324 Sq. M.,not available
+"130,000",Villa,"Ansab, Muscat",450 Sq. M.,11
+"8,500",Residential Land,"Al Khaboura, Al Batinah",627 Sq. M.,not available
+"3,500",Residential Land,"Suwaiq, Al Batinah",640 Sq. M.,not available
+"129,000",Apartment,"The Wave (Almouj), Muscat",130 Sq. M.,2
+"26,000",Villa,"Al Amarat, Muscat",315 Sq. M.,4
+"59,000",Chalet,"Barka, Al Batinah",633 Sq. M.,2
+"9,000",Residential Land,"Masira, Al Sharqiya",600 Sq. M.,not available
+"22,222",Residential Land,"Saham, Al Batinah",650 Sq. M.,not available
+"7,500",Residential Land,"Suwaiq, Al Batinah","1,200 Sq. M.",not available
+"93,000",Villa,"Al Maabilah, Muscat",365 Sq. M.,5
+"18,000",Residential Land,"Al Amarat, Muscat",600 Sq. M.,not available
+"60,000",Residential Land,"Al Maabilah, Muscat",600 Sq. M.,not available
+"70,000",Residential Land,"Sur, Al Sharqiya",900 Sq. M.,not available
+"95,000",Residential Land,"Qurayyat, Muscat","10,583 Sq. M.",not available
+"14,000",Residential Land,"Sumail, Al Dakhiliya",750 Sq. M.,not available
+"115,000",Residential Land,"Al Maabilah, Muscat",400 Sq. M.,not available
+"37,000",Residential Land,"Al Masn'a, Al Batinah","1,000 Sq. M.",not available
+"46,000",Residential Land,"Al Amarat, Muscat",612 Sq. M.,not available
+"9,000",Apartment,"Al Seeb, Muscat",48 Sq. M.,1
+"23,000",Residential Land,"Al Amarat, Muscat",600 Sq. M.,not available
+"22,000",Apartment,"Al Maabilah, Muscat",94 Sq. M.,3
+"82,000",Apartment,"Salalah, Dhofar",81 Sq. M.,2
+"24,000",Apartment,"Al Duqum, Al Wusta",40 Sq. M.,1
+"93,000",Residential Land,"Al Rusayl, Muscat","95,000 Sq. M.",not available
+"1,600",Residential Land,"Al Mazyona, Dhofar","1,000 Sq. M.",not available
+"95,000",Residential Land,"Al Rusayl, Muscat","1,100 Sq. M.",not available
+"52,000",Villa,"Barka, Al Batinah",254 Sq. M.,4
+"31,599",Apartment,"Ansab, Muscat",91 Sq. M.,3
+"11,500",Residential Land,"Sumail, Al Dakhiliya",600 Sq. M.,not available
+"47,500",Apartment,"Bosher, Muscat",123 Sq. M.,2
+"14,300",Residential Land,"Barka, Al Batinah",600 Sq. M.,not available
+100,Residential Land,"Al Amarat, Muscat",600 Sq. M.,not available
+"35,000",Apartment,"Al Maabilah, Muscat",118 Sq. M.,3
+"6,600",Residential Land,"Bahla, Al Dakhiliya",719 Sq. M.,not available
+"7,200",Residential Land,"Bahla, Al Dakhiliya",668 Sq. M.,not available
+"54,000",Villa,"Barka, Al Batinah",327 Sq. M.,5
+"45,000",Villa,"Barka, Al Batinah",600 Sq. M.,4
+"90,000",Villa,"Al Amarat, Muscat",520 Sq. M.,5
+"215,000",Apartment,"The Wave (Almouj), Muscat",157 Sq. M.,2
+"6,000",Residential Land,"Saham, Al Batinah",705 Sq. M.,not available
+"11,500",Residential Land,"Sumail, Al Dakhiliya",600 Sq. M.,not available
+"50,000",Residential Land,"Hamra, Al Dakhiliya",600 Sq. M.,not available
+"140,000",Villa,"Al Mawaleh, Muscat",10 Sq. M.,7
+"28,000",Residential Land,"Al Masn'a, Al Batinah","1,000 Sq. M.",not available
+"110,000",Apartment,"The Wave (Almouj), Muscat",130 Sq. M.,2
+"450,000",Residential Land,"Al Seeb, Muscat","1,488 Sq. M.",not available
+"44,000",Residential Land,"Al Seeb, Muscat",600 Sq. M.,not available
+"9,200",Residential Land,"Al Buraimi, Al Buraimi",767 Sq. M.,not available
+"12,200",Residential Land,"Al Buraimi, Al Buraimi",851 Sq. M.,not available
+"10,900",Residential Land,"Sohar, Al Batinah","1,200 Sq. M.",not available
+"6,000",Residential Land,"Ibra, Al Sharqiya",600 Sq. M.,not available
+100,Residential Land,"Barka, Al Batinah","1,000 Sq. M.",not available
+"4,500",Residential Land,"Ibri, Al Dhahirah",630 Sq. M.,not available
+"6,600",Residential Land,"Nizwa, Al Dakhiliya",662 Sq. M.,not available
+"9,000",Residential Land,"Bidbid, Al Dakhiliya",643 Sq. M.,not available
+"10,000",Residential Land,"Al Amarat, Muscat",600 Sq. M.,not available
+"355,000",Villa,"The Wave (Almouj), Muscat",465 Sq. M.,4
+"13,500",Residential Land,"Sohar, Al Batinah",600 Sq. M.,not available
+"53,000",Residential Land,"Al Maabilah, Muscat",615 Sq. M.,not available
+"30,000",Residential Land,"Ja'alan Bani Bu Ali, Al Sharqiya",200 Sq. M.,not available
+"30,000",Residential Land,"Salalah, Dhofar",600 Sq. M.,not available
+"145,000",Villa,"Al Mawaleh, Muscat",601 Sq. M.,5
+"35,000",Residential Land,"Al Amarat, Muscat",400 Sq. M.,not available
+"60,000",Residential Land,"Bosher, Muscat",600 Sq. M.,not available
+"6,500",Residential Land,"Sur, Al Sharqiya",600 Sq. M.,not available
+"60,000",Residential Land,"Adam, Al Dakhiliya","1,925 Sq. M.",not available
+"14,000",Residential Land,"Barka, Al Batinah",611 Sq. M.,not available
+"45,000",Apartment,"Al Amarat, Muscat",108 Sq. M.,2
+"460,000",Villa,"The Wave (Almouj), Muscat",600 Sq. M.,6
+"70,000",Villa,"Al Amarat, Muscat",600 Sq. M.,3
+"62,000",Residential Land,"Barka, Al Batinah","1,200 Sq. M.",not available
+"25,000",Villa,"Al Mudaibi, Al Sharqiya",250 Sq. M.,3
+"60,000",Apartment,"Bosher, Muscat",105 Sq. M.,2
+"95,000",Apartment,"The Wave (Almouj), Muscat",88 Sq. M.,1
+"30,000",Apartment,"Al Maabilah, Muscat",104 Sq. M.,2
+"121,000",Residential Land,"Bosher, Muscat","1,320 Sq. M.",not available
+"60,000",Villa,"Ruwi, Muscat",219 Sq. M.,6
+"52,000",Villa,"Barka, Al Batinah",254 Sq. M.,4
+"73,000",Residential Land,"Qurayyat, Muscat","1,885 Sq. M.",not available
+"26,500",Apartment,"Al Seeb, Muscat",86 Sq. M.,2
+"45,000",Apartment,"Al Ghubrah, Muscat",110 Sq. M.,2
+"25,000",Residential Land,"Sumail, Al Dakhiliya",600 Sq. M.,not available
+"67,000",Residential Land,"Al Seeb, Muscat",673 Sq. M.,not available
+"150,000",Residential Land,"Qurayyat, Muscat","1,500 Sq. M.",not available
+"17,900",Residential Land,"Al Amarat, Muscat",627 Sq. M.,not available
+"20,000",Residential Land,"Ibri, Al Dhahirah",799 Sq. M.,not available
+"130,000",Residential Land,"Al Maabilah, Muscat","1,000 Sq. M.",not available
+"69,000",Villa,"Al Mawaleh, Muscat",300 Sq. M.,4
+"75,000",Residential Land,"Al Khoud, Muscat",500 Sq. M.,not available
+"88,500",Villa,"Al Seeb, Muscat",287 Sq. M.,4
+"38,000",Apartment,"Al Khoud, Muscat",89 Sq. M.,2
+"13,000",Residential Land,"Saham, Al Batinah",634 Sq. M.,not available
+"110,000",Villa,"Muscat - Other, Muscat",272 Sq. M.,8
+"430,000",Residential Land,"Qurayyat, Muscat","8,000 Sq. M.",not available
+"5,000",Residential Land,"Nizwa, Al Dakhiliya",660 Sq. M.,not available
+"98,000",Residential Land,"Al Khoud, Muscat",600 Sq. M.,not available
+"4,200",Residential Land,"Al Rustaq, Al Batinah",628 Sq. M.,not available
+"28,000",Residential Land,"Al Jazur, Al Wusta",600 Sq. M.,not available
+"90,000",Residential Land,"Bosher, Muscat",600 Sq. M.,not available
+"56,000",Apartment,"Madinat As Sultan Qaboos, Muscat",100 Sq. M.,1
+"23,500",Residential Land,"Qurayyat, Muscat",606 Sq. M.,not available
+"35,000",Residential Land,"Al Amarat, Muscat",600 Sq. M.,not available
+"6,000",Residential Land,"Al Khaboura, Al Batinah",634 Sq. M.,not available
+"16,000",Apartment,"Al Amarat, Muscat",149 Sq. M.,3
+"25,000",Residential Land,"Wadi Al Ma'awal, Al Batinah",507 Sq. M.,not available
+"50,000",Residential Land,"Barka, Al Batinah","1,592 Sq. M.",not available
+"20,000",Residential Land,"Sumail, Al Dakhiliya",600 Sq. M.,not available
+"15,000",Residential Land,"Al Amarat, Muscat",667 Sq. M.,not available
+"220,000",Residential Land,"Darsait, Muscat",600 Sq. M.,not available
+"24,500",Residential Land,"Barka, Al Batinah",602 Sq. M.,not available
+"11,000",Residential Land,"Saham, Al Batinah",660 Sq. M.,not available
+786,Residential Land,"Al Khuwair, Muscat",786 Sq. M.,not available
+"1,000,000",Villa,"The Wave (Almouj), Muscat",600 Sq. M.,4
+"135,000",Residential Land,"Muscat - Other, Muscat","7,517 Sq. M.",not available
+"15,000",Residential Land,"Al Amarat, Muscat",642 Sq. M.,not available
+"22,000",Residential Land,"Barka, Al Batinah",600 Sq. M.,not available
+"45,000",Apartment,"Qurum, Muscat",75 Sq. M.,1
+500,Residential Land,"Al Khoud, Muscat","5,000 Sq. M.",not available
+"90,000",Residential Land,"Barka, Al Batinah",994 Sq. M.,not available
+"18,500",Residential Land,"Barka, Al Batinah",687 Sq. M.,not available
+"195,000",Residential Land,"Barka, Al Batinah","15,812 Sq. M.",not available
+"320,000",Residential Land,"Misfah, Muscat","6,800 Sq. M.",not available
+"400,000",Residential Land,"Suwaiq, Al Batinah","41,074 Sq. M.",not available
+"28,000",Residential Land,"Barka, Al Batinah",765 Sq. M.,not available
+"40,000",Residential Land,"Al Mudaibi, Al Sharqiya",414 Sq. M.,not available
+100,Residential Land,"Al Seeb, Muscat",100 Sq. M.,not available
+"23,000",Residential Land,"Hamra, Al Dakhiliya",648 Sq. M.,not available
+"6,500",Residential Land,"Ibri, Al Dhahirah",840 Sq. M.,not available
+"75,000",Villa,"Al Seeb, Muscat",221 Sq. M.,3
+"59,000",Residential Land,"Nizwa, Al Dakhiliya",531 Sq. M.,not available
+"6,500",Residential Land,"Ibri, Al Dhahirah",700 Sq. M.,not available
+"1,000",Villa,"Haima, Al Wusta","1,000 Sq. M.",4
+600,Apartment,"Mahut, Al Wusta",10 Sq. M.,1
+"5,800",Residential Land,"Nizwa, Al Dakhiliya",600 Sq. M.,not available
+"491,410",Villa,"Yiti, Muscat",384 Sq. M.,4
+"7,000",Residential Land,"Al Amarat, Muscat",645 Sq. M.,not available
